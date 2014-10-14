@@ -70,7 +70,7 @@ Employment
 - Used HTML and CSS in creating marketing emails and landing pages
 - Developed a pricing algorithm implemented in Excel and Access
 
-### Norfolk Library Servide
+### Norfolk Library Service
 **Library Assistant - (June 2005 -  June 2009)**
 - Worked as a library assistant in busy rural libraries
 - Drove a mobile library van :D
