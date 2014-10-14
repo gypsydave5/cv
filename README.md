@@ -40,9 +40,9 @@ This year I decided to pursue a career in development after a lifetime of intere
 * Twitter Bootstrap
 * User authentication and authorisation with bcrypt and Devise
 * Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-* Writing in Vim
+* Writing with Vim
 * Documenting in Markdown
-* DEploying to Heroku
+* Deploying to Heroku
 * Agile values, principles and practice
 * Object-oriented programming principles, including SOLID
 * Basic software design patterns
@@ -50,7 +50,7 @@ This year I decided to pursue a career in development after a lifetime of intere
 * Basic design in Photoshop and InDesign
 
 Employment
-------------
+----------
 ### Liberis
 **Marketing Executive - (March 2014 - August 2014)**
 - Desiging and delivering responsive HTML emails in a test and learn program
@@ -84,6 +84,24 @@ Education
 |  2000 - 2003 | University of Warwick | BA Philosophy (1:1) |
 |  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology Chemistry; 10 GCSEs |
 
+I Like
+------
+
+Parsing natural language, writing in markdown, playing with Vim, semantically
+beautiful code, playing chess, calligraphy, typography, Kant, Nietzsche, Wittgenstein and walking my dog, Erik.
+
 Say Hi
 ------
 You can reach me as [@gypsydave5] on Twitter and dave@gypsydave5.com. There's even a blog - [blog.gypsydave5.com] - if you'd like to see what I'm up to and thinking.
+
+[Makers Academy]: http://www.makersacademy.com/
+[Map To The Future]: https://github.com/gypsydave5/map-to-the-future
+[Battleships]: https://github.com/gypsydave5/battleships
+[Chitter]: https://github.com/gypsydave5/chitter
+[Twitter]: https://github.com/gypsydave5/battleships
+[Yo]: http://www.justyo.co/
+[Code School]: https://www.codeschool.com/users/gypsydave5
+[codecademy]: http://www.codecademy.com/gypsydave5
+[Ruby Monk]: https://rubymonk.com/u/david-wickes
+[@gypsydave5]: https://twitter.com/gypsydave5
+[blog.gypsydave5.com]: http://blog.gypsydave5.com/
