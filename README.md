@@ -7,14 +7,7 @@ My Code
 
 | [Map To The Future]                  | [Battleships]                      | [Chitter]                             |
 |--------------------------------------|------------------------------------|---------------------------------------|
-|The final project at [Makers Academy],|Battleships, written in Ruby, tested|A [Twitter] clone created using Sinatra|
-|we worked in a team of four to create |with Rspec and played in the command|with features specced in Cucumber and  |
-|an interactive timeline and a map to  |line. Recently updated with a fork  |unit tests in Rspec. The style of the  |
-|help visualize historical data and the|to initialize a board across        |HTML and CSS was heavily influenced by |
-|connections and confluence of events. |n-dimensions.                       |[Yo].                                  |
-|Lots of JS, and lots of maps!         |                                    |                                       |
-|--------------------------------------|------------------------------------|---------------------------------------|
-
+The final project at [Makers Academy], we worked in a team of four to create an interactive timeline and a map to help visualize historical data and the connections and confluence of events. Lots of JS, and lots of maps!| Battleships, written in Ruby, tested with Rspec and played in the command line. Recently updated with a fork to initialize a board across multiple dimensions.| A [Twitter] clone created using Sinatra with features specced in Cucumber and unit tests in Rspec. The style of the  HTML and CSS was heavily influenced by [Yo].
 
 Why I am a Developer
 --------------------
@@ -74,7 +67,7 @@ Employment
 ### The Kids Window
 **Web Master - (September 2009 - February 2013)**
 - Joined small family-run website as a copywriter
-- Used HTML and CSS in creating marketing emails and landing pages 
+- Used HTML and CSS in creating marketing emails and landing pages
 - Developed a pricing algorithm implemented in Excel and Access
 
 ### Norfolk Library Servide
