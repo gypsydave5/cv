@@ -20,7 +20,7 @@ This year I decided to pursue a career in development after a lifetime of intere
 
 ### Skills
 * Ruby 2.1
-* HTML5, ERB and Haml
+* HTML5, ERB, Haml, EJS and Jade
 * CSS3 and Sass
 * JavaScript and CoffeeScript
 * jQuery with Ajax techniques
