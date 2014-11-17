@@ -11,7 +11,11 @@ The final project at [Makers Academy], we worked in a team of four to create an 
 
 Why I am a Developer
 --------------------
-This year I decided to pursue a career in development after a lifetime of interest in computers and technology. I spent the first half of the year learning from home using online courses such as [codecademy], [Code School] and [Ruby Monk]. I then joined [Makers Academy] in August to accelerate and fully embed my learning.
+This year I decided to pursue a career in development after a lifetime of
+interest in computers and technology. I spent the first half of the year
+learning from home using online courses such as [codecademy], [Code School] and
+[Ruby Monk]. I then joined [Makers Academy] in August to accelerate and fully
+embed my learning.
 
 ### Makers Academy (August 2014 - October 2014)
 * 12-week coding bootcamp
@@ -19,35 +23,35 @@ This year I decided to pursue a career in development after a lifetime of intere
 * Learned TDD/BDD best practices, pair programming and other Agile techniques
 
 ### Skills
-* Ruby 2.1
-* HTML5, ERB, Haml, EJS and Jade
+* Agile values, principles and practice
+* Basic design in Photoshop and InDesign
 * CSS3 and Sass
-* JavaScript and CoffeeScript
-* jQuery with Ajax techniques
-* Websockets
-* Ruby on Rails
-* Sinatra
-* Node.js with Express
-* Test & Behaviour Driven Development
-* Unit testing with RSpec and Jasmine
+* Deploying to Heroku
+* Documenting in Markdown
+* FactoryGirl
+* Feature tests in Cucumber
+* HTML5, ERB, Haml, EJS and Jade
+* Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
 * Integration tests in Capybara with Phantom.js
 * Integration tests in Mocha using the Chai assertion library
-* Feature tests in Cucumber
-* FactoryGirl
-* PostgreSQL with ActiveRecord and DataMapper
+* JavaScript and CoffeeScript
+* jQuery with Ajax techniques
 * MongoDB with Mongoose
-* Version control with git and Github
-* Twitter Bootstrap
-* User authentication and authorisation with bcrypt and Devise
-* Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-* Writing with Vim
-* Documenting in Markdown
-* Deploying to Heroku
-* Agile values, principles and practice
+* Node.js with Express
 * Object-oriented programming principles, including SOLID
-* Basic software design patterns
 * Pair programming
-* Basic design in Photoshop and InDesign
+* PostgreSQL with ActiveRecord and DataMapper
+* Ruby 2.1
+* Ruby on Rails
+* Sinatra
+* Software design patterns
+* Test & Behaviour Driven Development
+* Twitter Bootstrap
+* Unit testing with RSpec and Jasmine
+* User authentication and authorisation with bcrypt and Devise
+* Version control with git and Github
+* Vim
+* Websockets
 
 Employment
 ----------
@@ -88,11 +92,14 @@ I Like
 ------
 
 Parsing natural language, writing in markdown, playing with Vim, semantically
-beautiful code, playing chess, calligraphy, typography, Kant, Nietzsche, Wittgenstein and walking my dog, Erik.
+beautiful code, playing chess, calligraphy, typography, Kant, Nietzsche,
+Wittgenstein and walking my dog, Erik.
 
 Say Hi
 ------
-You can reach me as [@gypsydave5] on Twitter and dave@gypsydave5.com. There's even a blog - [blog.gypsydave5.com] - if you'd like to see what I'm up to and thinking.
+You can reach me as [@gypsydave5] on Twitter and dave@gypsydave5.com. There's
+even a blog - [blog.gypsydave5.com] - if you'd like to see what I'm up to and
+thinking.
 
 [Makers Academy]: http://www.makersacademy.com/
 [Map To The Future]: https://github.com/gypsydave5/map-to-the-future
