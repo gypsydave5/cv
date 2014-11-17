@@ -73,7 +73,7 @@ Employment
 ### Norfolk Library Service
 **Library Assistant - (June 2005 -  June 2009)**
 - Worked as a library assistant in busy rural libraries
-- Drove a mobile library van :D
+- Drove a mobile library van :smile:
 - Helped almost everyone with the computers at some point
 
 Education
