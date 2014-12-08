@@ -4,6 +4,7 @@ I'm a web developer. I enjoy making things happen with a computer - mostly on th
 
 My Code
 -------
+(see more on my [GitHub])
 
 | [Map To The Future]                  | [Battleships]                      | [Chitter]                             |
 |--------------------------------------|------------------------------------|---------------------------------------|
@@ -101,14 +102,15 @@ You can reach me as [@gypsydave5] on Twitter and dave@gypsydave5.com. There's
 even a blog - [blog.gypsydave5.com] - if you'd like to see what I'm up to and
 thinking.
 
-[Makers Academy]: http://www.makersacademy.com/
-[Map To The Future]: https://github.com/gypsydave5/map-to-the-future
+[@gypsydave5]: https://twitter.com/gypsydave5
 [Battleships]: https://github.com/gypsydave5/battleships
+[blog.gypsydave5.com]: http://blog.gypsydave5.com/
 [Chitter]: https://github.com/gypsydave5/chitter
-[Twitter]: https://github.com/gypsydave5/battleships
-[Yo]: http://www.justyo.co/
 [Code School]: https://www.codeschool.com/users/gypsydave5
 [codecademy]: http://www.codecademy.com/gypsydave5
+[GitHub]: https://github.com/gypsydave5
+[Makers Academy]: http://www.makersacademy.com/
+[Map To The Future]: https://github.com/gypsydave5/map-to-the-future
 [Ruby Monk]: https://rubymonk.com/u/david-wickes
-[@gypsydave5]: https://twitter.com/gypsydave5
-[blog.gypsydave5.com]: http://blog.gypsydave5.com/
+[Twitter]: https://github.com/gypsydave5/battleships
+[Yo]: http://www.justyo.co/
