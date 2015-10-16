@@ -1,116 +1,114 @@
-David Wickes
-======================
-I'm a web developer. I enjoy making things happen with a computer - mostly on the internet.
+# David Wickes
+A full-stack developer who is serious about code
+craftsmanship, works mainly in JavaScript and Ruby, and
+is always looking to learn something new.
 
-My Code
--------
-(see more on my [GitHub])
+## *Development Experience*
 
-| [Map To The Future]                  | [Battleships]                      | [Chitter]                             |
-|--------------------------------------|------------------------------------|---------------------------------------|
-The final project at [Makers Academy], we worked in a team of four to create an interactive timeline and a map to help visualize historical data and the connections and confluence of events. Lots of JS, and lots of maps!| Battleships, written in Ruby, tested with Rspec and played in the command line. Recently updated with a fork to initialize a board across multiple dimensions.| A [Twitter] clone created using Sinatra with features specced in Cucumber and unit tests in Rspec. The style of the  HTML and CSS was heavily influenced by [Yo].
+## [Mergermarket] (January 2015 - present)
+* Financial journalism company, providing alerting and research services to
+  multiple sectors.
+* Built a web-scraping and alerting system for US bankruptcy courts using
+  a microservice architecture, hosted in Docker containers and written in Groovy
+  and JavaScript
+* Worked in an experienced, language agnostic and extremely agile team,
+  delivering incremental and consistent value to the business.
 
-Why I am a Developer
---------------------
-This year I decided to pursue a career in development after a lifetime of
-interest in computers and technology. I spent the first half of the year
-learning from home using online courses such as [codecademy], [Code School] and
-[Ruby Monk]. I then joined [Makers Academy] in August to accelerate and fully
-embed my learning.
+##### Skills
+* Principles of microservice architecture design
+* Building RESTful services using Express, Spark, Ratpack
+* Using RabbitMQ message queues to interface between services
+* Monitoring and logging using Graphite, DataDog, Logstash and Logentries
+* New language - Groovy (a Java derivative)
+* New databases - MS SQL and RethinkDB
+* Build tools - Gradle, Grunt, Gulp and Make
+* Web scraping using various libraries and regular expressions
+* Using Browserify to export NodeJS modules to the browser
+* Testing using Spock
+* Principles of functional programming
+* AngularJS
+* Creating and managing multiple CI pipelines using Jenkins
+* Participating in and leading retrospectives
+* Running applications inside Docker containers
+* Virtualization of Windows machines using VirtualBox for testing
+* AWS ecosystem, including provisioning ECS (Docker) clusters
+* Building Slack integrations
 
-### Makers Academy (August 2014 - October 2014)
+## [Makers Academy] (August 2014 - October 2014)
 * 12-week coding bootcamp
-* Full-stack web development in Ruby, Rails, Sinatra and Node
-* Learned TDD/BDD best practices, pair programming and other Agile techniques
+* Full-stack web development in Ruby, Rails, Sinatra and NodeJS
+* Learned TDD/BDD, pair programming and other Agile practice
 
-### Skills
+##### Skills
 * Agile values, principles and practice
-* Basic design in Photoshop and InDesign
 * CSS3 and Sass
 * Deploying to Heroku
-* Documenting in Markdown
-* FactoryGirl
 * Feature tests in Cucumber
-* HTML5, ERB, Haml, EJS and Jade
-* Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-* Integration tests in Capybara with Phantom.js
-* Integration tests in Mocha using the Chai assertion library
-* JavaScript and CoffeeScript
-* jQuery with Ajax techniques
-* MongoDB with Mongoose
-* Node.js with Express
-* Object-oriented programming principles, including SOLID
+* HTML5 with various templating libraries
+* Ruby and frameworks - Sinatra, Ruby on Rails
+* JavaScript, CoffeeScript and the Express framework
+* Object-oriented programming principles
 * Pair programming
-* PostgreSQL with ActiveRecord and DataMapper
-* Ruby 2.1
-* Ruby on Rails
-* Sinatra
+* SQL and NoSQL databases
 * Software design patterns
-* Test & Behaviour Driven Development
-* Twitter Bootstrap
+* TDD and BDD
 * Unit testing with RSpec and Jasmine
-* User authentication and authorisation with bcrypt and Devise
-* Version control with git and Github
-* Vim
-* Websockets
+* Testing with Mocha, Chai, Capybara and PhantomJS
+* Version control with git and GitHub
 
-Employment
-----------
+## *Other Employment*
+
 ### Liberis
-**Marketing Executive - (March 2014 - August 2014)**
-- Desiging and delivering responsive HTML emails in a test and learn program
+
+*Marketing Executive (March 2014 - August 2014)*
+
+- Designing and delivering responsive HTML emails in a test and learn program
 - Led integration of company data sources into Saleforce CRM
-- Started a project to place company telephony into the cloud
-- Temporary contract extended as a recognition of performance
+- Started a project to place company telephony in the cloud
 
 ### Polyglobe Group
-**Marketing Executive - (March 2013 - February 2014)**
+
+*Marketing Executive (March 2013 - February 2014)*
+
 - Joined just prior to launch of new website to advise on SEO and create copy
 - Worked closely with developer to fix post-launch bugs and problems
-- Responsible for email marketing
 
 ### The Kids Window
-**Web Master - (September 2009 - February 2013)**
+
+*Web Master (September 2009 - February 2013)*
+
 - Joined small family-run website as a copywriter
 - Used HTML and CSS in creating marketing emails and landing pages
-- Developed a pricing algorithm implemented in Excel and Access
 
 ### Norfolk Library Service
-**Library Assistant - (June 2005 -  June 2009)**
+
+*Library Assistant (June 2005 -  June 2009)*
+
 - Worked as a library assistant in busy rural libraries
-- Drove a mobile library van :smile:
 - Helped almost everyone with the computers at some point
 
-Education
----------
+## Education
 |      Dates      |       Institution       |              Subject(s)              |
 | --------------- |-------------------------|--------------------------------------|
 |  2003 - 2005 | University of Warwick     | MA Continental Philosophy     |
 |  2000 - 2003 | University of Warwick | BA Philosophy (1:1) |
 |  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology Chemistry; 10 GCSEs |
 
-I Like
-------
+## I Like
+Playing with Vim and Emacs, software craftsmanship, going to meetups,
+teaching others to code at Codebar.io, learning other languages in my
+spare time (Common Lisp, Clojure), playing chess, calligraphy,
+typography, Kant, Nietzsche, Wittgenstein and walking my dog,
+Erik. But most of all I like writing code.
 
-Parsing natural language, writing in markdown, playing with Vim, semantically
-beautiful code, playing chess, calligraphy, typography, Kant, Nietzsche,
-Wittgenstein and walking my dog, Erik.
-
-Say Hi
-------
-You can reach me as [@gypsydave5] on Twitter and dave@gypsydave5.com. There's
-even a blog - [blog.gypsydave5.com] - if you'd like to see what I'm up to and
-thinking.
+## Contact
+You can reach me as @gypsydave5 on Twitter and dave@gypsydave5.com by
+email. There's a blog ([blog.gypsydave5.com]), and my [GitHub] account
+too if you'd like to see what I'm up to and thinking.
 
 [@gypsydave5]: https://twitter.com/gypsydave5
 [Battleships]: https://github.com/gypsydave5/battleships
 [blog.gypsydave5.com]: http://blog.gypsydave5.com/
-[Chitter]: https://github.com/gypsydave5/chitter
-[Code School]: https://www.codeschool.com/users/gypsydave5
-[codecademy]: http://www.codecademy.com/gypsydave5
 [GitHub]: https://github.com/gypsydave5
+[Mergermarket]: http://www.mergermarketgroup.com/
 [Makers Academy]: http://www.makersacademy.com/
-[Map To The Future]: https://github.com/gypsydave5/map-to-the-future
-[Ruby Monk]: https://rubymonk.com/u/david-wickes
-[Twitter]: https://github.com/gypsydave5/battleships
-[Yo]: http://www.justyo.co/
