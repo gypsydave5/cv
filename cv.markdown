@@ -20,16 +20,14 @@ looking to learn something new.
 * Building frontends in vanilla JS, React and Redux
 * Principles of microservice architecture design
 * Principles of functional programming
-* Participated and led learning of Go during brown bag sessions
+* Participated and led in learning Go during brown bag sessions
 * Building RESTful services using Express, Spark, Ratpack
 * Using RabbitMQ to connect services
 * Monitoring and logging using Graphite, DataDog, Logstash and Logentries
 * Databases - MSSQL, RethinkDB, Elasticsearch, MongoDB
 * Web scraping using various libraries and regular expressions
 * Creating and managing multiple CI pipelines using Jenkins
-* Moving my teams towards continuous delivery
 * Participating in and leading retrospectives
-* Running multiple microservices in containers using Docker and AWS
 
 ## [Makers Academy]
 ##### _Student (August 2014 - October 2014), Tutor (October 2014 - December 2014)_
@@ -68,7 +66,6 @@ looking to learn something new.
 
 - Designing and delivering responsive HTML emails in a test and learn program
 - Led integration of company data sources into Saleforce CRM
-- Started a project to place company telephony in the cloud
 
 ### Polyglobe Group
 
