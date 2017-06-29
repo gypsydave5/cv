@@ -92,9 +92,9 @@ looking to learn something new.
 |  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology Chemistry; 10 GCSEs |
 
 ## I Like
-Playing with editors, software craftsmanship, teaching at Codebar.io, playing
-chess, calligraphy, typography, Kant, Nietzsche, Wittgenstein and walking my
-dog, Erik. But most of all I like writing code.
+Playing with editors, the command line, software craftsmanship, teaching at
+Codebar.io, playing chess, calligraphy, typography, Kant, Nietzsche,
+Wittgenstein and walking my dog, Erik. But most of all I like writing code.
 
 ## Contact
 You can reach me as [gypsydave5] on Twitter and [dave@gypsydave5.com]
