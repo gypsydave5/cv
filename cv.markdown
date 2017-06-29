@@ -5,27 +5,29 @@ looking to learn something new.
 ## *Development Experience*
 
 ## [Mergermarket]
-##### _Developer (January 2015 - May 2016), Lead Developer (May 2016 - present)_
+##### _Developer (January 2015 - present), Lead Developer (May 2016 - September 2016)_
 * Financial journalism company, providing alerting and research services to
   multiple sectors.
 * Built a web-scraping and alerting system for US bankruptcy courts using
   a microservice architecture.
-* Contributed to creation of new content delivery pipelines for core business
-* Promoted to Lead Developer, leading a cross-functional team of six
+* Contributed to creation of new content delivery pipelines for the core business
+* Led a team until I asked to be allowed to focus on development
+* Led and iterated on the structure for regular hackdays
 
 ##### Skills
 * Extending and upgrading NodeJS apps to use ES2015 features
-* New language - Groovy
+* Languages - Groovy, Go, NodeJS
+* Building frontends in vanilla JS, React and Redux
 * Principles of microservice architecture design
 * Principles of functional programming
 * Participated and led learning of Go during brown bag sessions
 * Building RESTful services using Express, Spark, Ratpack
 * Using RabbitMQ to connect services
 * Monitoring and logging using Graphite, DataDog, Logstash and Logentries
-* New databases - MSSQL, RethinkDB, Elasticsearch, MongoDB
+* Databases - MSSQL, RethinkDB, Elasticsearch, MongoDB
 * Web scraping using various libraries and regular expressions
 * Creating and managing multiple CI pipelines using Jenkins
-* Moving my team towards continuous delivery
+* Moving my teams towards continuous delivery
 * Participating in and leading retrospectives
 * Running multiple microservices in containers using Docker and AWS
 
@@ -55,7 +57,7 @@ looking to learn something new.
   & Higher School of Economics on Coursera
 
 ### Languages
-* Used in production: JavaScript, Groovy, Ruby, Go (to a lesser extent)
+* Used in production: JavaScript/NodeJS, Groovy, Ruby, Go, Scala
 * Used outside of work: C, Common Lisp, Racket, Clojure, Go
 
 ## *Other Employment*
@@ -90,9 +92,9 @@ looking to learn something new.
 |  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology Chemistry; 10 GCSEs |
 
 ## I Like
-Playing with Vim and Emacs, software craftsmanship, teaching at
-Codebar.io, playing chess, calligraphy, typography, Kant, Nietzsche,
-Wittgenstein and walking my dog, Erik. But most of all I like writing code.
+Playing with editors, software craftsmanship, teaching at Codebar.io, playing
+chess, calligraphy, typography, Kant, Nietzsche, Wittgenstein and walking my
+dog, Erik. But most of all I like writing code.
 
 ## Contact
 You can reach me as [gypsydave5] on Twitter and [dave@gypsydave5.com]
