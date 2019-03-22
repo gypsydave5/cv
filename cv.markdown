@@ -1,11 +1,27 @@
 # David Wickes
-A software developer who is serious about code craftsmanship and is always
-looking to learn something new.
+A software developer
 
-## *Development Experience*
+## [SpringerNature Digital]
 
-## [Mergermarket]
-##### _Developer (January 2015 - present), Lead Developer (May 2016 - September 2016)_
+#### _Developer (October 2017 - present)_
+* International scientific publisher
+* Joined to work as part of a small innovations team, working across the company
+* Dissolution of team resulted in move to a team working on a high-priority
+  payments project
+* Led a weekly lunch group learning Lisp(s)
+
+##### Skills
+* Rapid prototyping and iteration in close collaboration with users
+* Small applications as experiments to gather the maximum information on real requirements
+* Self-directed working within a team without PO or QA roles
+* Continuous delivery with trunk based development
+* Leveraging modern HTML and CSS to build simple, functional web applications quickly
+* Using browser extensions as an integration point across legacy systems
+* The Kotlin programming language and working on the JVM
+* Deploying applications on a Cloud Foundry platform
+
+## [Acuris]
+##### _Developer (January 2015 - October 2017), Lead Developer (May 2016 - September 2016)_
 * Financial journalism company, providing alerting and research services to
   multiple sectors.
 * Built a web-scraping and alerting system for US bankruptcy courts using
@@ -16,11 +32,9 @@ looking to learn something new.
 
 ##### Skills
 * Extending and upgrading NodeJS apps to use ES2015 features
-* Languages - Groovy, Go, NodeJS
+* Languages - Groovy, Go, JavaScript, TypeScript
 * Building frontends in vanilla JS, React and Redux
-* Principles of microservice architecture design
-* Principles of functional programming
-* Participated and led in learning Go during brown bag sessions
+* Participated and led in learning and adoption of Go across development teams
 * Building RESTful services using Express, Spark, Ratpack
 * Using RabbitMQ to connect services
 * Monitoring and logging using Graphite, DataDog, Logstash and Logentries
@@ -35,73 +49,52 @@ looking to learn something new.
 * Learned TDD/BDD, pair programming and other modern development practices
 
 ##### Skills
-* Agile values, principles and practice
-* Test and Behaviour Driven Development
-* Object-oriented programming principles
-* Ruby and frameworks - Sinatra, Ruby on Rails
-* JavaScript, CoffeeScript and the Express framework
-* Testing with Mocha, RSpec, Cucumber, Capybara and PhantomJS
+* Ruby and JavaScript
 * Frontend skills in HTML5, CSS and JQuery
-* Deploying to Heroku
-* SQL and NoSQL databases (PostgreSQL and MongoDB)
 * Version control with git and GitHub
 
 ## *Courses, Conferences, External Activities*
 
-* Attended QCon 2016, Agile on the Beach 2015, Brighton Ruby 2015 and AWS London
+* Recent conferences: Software Craftmanship London, GopherCon Europe, QCon 2016
 * Lead Developer Workshop: _Be a brilliant people developer_
 * _Single Page Applications with AngularJS and TypeScript_ - Skills Matter
 * [_Algorithmic Toolbox_][toolbox] by University of California, San Diego
   & Higher School of Economics on Coursera
 
 ### Languages
-* Used in production: JavaScript/NodeJS, Groovy, Ruby, Go, Scala
-* Used outside of work: C, Common Lisp, Racket, Clojure, Go
+* Used in production: Kotlin, JavaScript/NodeJS, Groovy, Ruby, Go
+* Used outside of work: Common Lisp, Clojure, C
 
 ## *Other Employment*
 
 ### Liberis
-
 *Marketing Executive (March 2014 - August 2014)*
 
-- Designing and delivering responsive HTML emails in a test and learn program
-- Led integration of company data sources into Saleforce CRM
-
 ### Polyglobe Group
-
 *Marketing Executive (March 2013 - February 2014)*
-
-- Joined just prior to launch of new website to advise on SEO and write copy
-- Worked closely with developer to fix post-launch bugs and problems
-
-### The Kids Window
-
-*Web Master (September 2009 - February 2013)*
-
-- Joined small family-run website as a copywriter and was rapidly promoted
-- Used HTML and CSS in creating marketing emails and landing pages
 
 ## Education
 |      Dates      |       Institution       |              Subject(s)              |
 | --------------- |-------------------------|--------------------------------------|
 |  2003 - 2005 | University of Warwick     | MA Continental Philosophy     |
 |  2000 - 2003 | University of Warwick | BA Philosophy (1:1) |
-|  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology Chemistry; 10 GCSEs |
+|  1991 - 1998 | Wisbech Grammar School | A level Maths, Biology & Chemistry; 10 GCSEs |
 
 ## I Like
-Playing with editors, the command line, software craftsmanship, teaching at
-Codebar.io, playing chess, calligraphy, typography, Kant, Nietzsche,
-Wittgenstein and walking my dog, Erik. But most of all I like writing code.
+Playing with text editors, the UNIX philosophy, TDD, playing chess, boardgames,
+wargames, calligraphy, typography, and the philosophy of language. But most of
+all I like writing code.
 
 ## Contact
-You can reach me as [gypsydave5] on Twitter and [dave@gypsydave5.com]
-by email. There's a blog ([blog.gypsydave5.com]), and my [GitHub] account too
-if you'd like to see what I'm up to and thinking.
+You can reach me as @[gypsydave5] on Twitter and [dave@gypsydave5.com] by
+email. There's a blog ([blog.gypsydave5.com]), and my [GitHub] account too if
+you'd like to see what I'm up to and thinking.
 
 [blog.gypsydave5.com]: http://blog.gypsydave5.com/
 [GitHub]: https://github.com/gypsydave5
-[Mergermarket]: http://www.mergermarketgroup.com/
+[Acuris]: http://www.acuris.com/
 [Makers Academy]: http://www.makersacademy.com/
 [gypsydave5]: https://twitter.com/gypsydave5
 [dave@gypsydave5.com]: email:dave@gypsydave5.com
+[SpringerNature Digital]: http://www.springernature.com
 [toolbox]: https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84
