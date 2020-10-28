@@ -7,7 +7,7 @@
   :CUSTOM_ID: david-wickes
   :END:
 
-An agile, iterative, and test-driven developer.
+  An agile, iterative, and test-driven developer.
 
 ** [[http://www.acuris.com/][Acuris]]
    :PROPERTIES:
