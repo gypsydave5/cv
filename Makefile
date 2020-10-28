@@ -1,7 +1,6 @@
 build:
-	pandoc cv.markdown \
-        -V geometry:margin=0.8in \
-        -V papersize:"a4paper" \
+	pandoc cv.org \
+        -V papersize:"a5paper" \
         -V pagenumbering:false \
         -V colorlinks \
-        -o cv.pdf
+        -o cv.pdf \
