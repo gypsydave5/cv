@@ -1,3 +1,5 @@
+
+
 # David Wickes
 
 An agile, iterative, and test-driven developer.
@@ -12,16 +14,18 @@ An agile, iterative, and test-driven developer.
 -   Worked initially on the platform team building tooling around AWS
 -   Moved to a product team building web applications
 -   Initiated and ran the departments mentoring programme
+-   Acted as pro tem lead for the team
 
 
 #### Skills
 
 -   Use of graphical JavaScript libraries to display information
--   [Event sourced](https://martinfowler.com/eaaDev/EventSourcing.html) architecture in TypeScript
+-   [Event sourced](https://martinfowler.com/eaaDev/EventSourcing.html) backend architecture in TypeScript
 -   Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
 -   [Next.js](https://nextjs.org/), a React based web framework
--   Promoted the use of DevOps techniques for building software
+-   Promoted the use of DevOps and Agile techniques for building software
 -   Configuring multiple AWS services using [Terraform](https://www.terraform.io/)
+-   Working with [Svelte](https://svelte.dev/)
 
 
 ## [SpringerNature Digital](http://www.springernature.com)
@@ -115,11 +119,46 @@ An agile, iterative, and test-driven developer.
 
 ## Education
 
-| Dates       | Institution            | Subject(s)                                   |
-|----------- |---------------------- |-------------------------------------------- |
-| 2003 - 2005 | University of Warwick  | MA Continental Philosophy                    |
-| 2000 - 2003 | University of Warwick  | BA Philosophy (1:1)                          |
-| 1991 - 1998 | Wisbech Grammar School | A level Maths, Biology & Chemistry; 10 GCSEs |
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">Institution</th>
+<th scope="col" class="org-left">Subject(s)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">2003 - 2005</td>
+<td class="org-left">University of Warwick</td>
+<td class="org-left">MA Continental Philosophy</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2000 - 2003</td>
+<td class="org-left">University of Warwick</td>
+<td class="org-left">BA Philosophy (1:1)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">1991 - 1998</td>
+<td class="org-left">Wisbech Grammar School</td>
+<td class="org-left">A level Maths, Biology & Chemistry; 10 GCSEs</td>
+</tr>
+</tbody>
+</table>
 
 
 ## I Like

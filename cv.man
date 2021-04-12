@@ -1,0 +1,176 @@
+.TH "" "1"
+.SH "David Wickes"
+.PP
+An agile, iterative, and test-driven developer.
+
+.SS "http://www.acuris.com/ \fBat\fP \fIAcuris\fP"
+.SS "\fISenior Developer (June 2019 - Present)\fP"
+.IP \(em 4
+Financial journalism company, providing alerting and research services to multiple sectors.
+.IP \(em 4
+Worked initially on the platform team building tooling around AWS
+.IP \(em 4
+Moved to a product team building web applications
+.IP \(em 4
+Initiated and ran the departments mentoring programme
+.IP \(em 4
+Acted as pro tem lead for the team
+
+.RS
+.TP
+.ft I
+Skills
+.ft
+.IP \(em 4
+Use of graphical JavaScript libraries to display information
+.IP \(em 4
+https://martinfowler.com/eaaDev/EventSourcing.html \fBat\fP \fIEvent sourced\fP backend architecture in TypeScript
+.IP \(em 4
+Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
+.IP \(em 4
+https://nextjs.org/ \fBat\fP \fINext.js\fP, a React based web framework
+.IP \(em 4
+Promoted the use of DevOps and Agile techniques for building software
+.IP \(em 4
+Configuring multiple AWS services using https://www.terraform.io/ \fBat\fP \fITerraform\fP
+.IP \(em 4
+Working with https://svelte.dev/ \fBat\fP \fISvelte\fP
+.RE
+
+.SS "http://www.springernature.com \fBat\fP \fISpringerNature Digital\fP"
+.SS "\fIDeveloper (October 2017 - June 2019)\fP"
+.IP \(em 4
+International scientific publisher
+.IP \(em 4
+Joined to work as part of a small innovations team, working across the company
+.IP \(em 4
+Dissolution of team resulted in move to high-priority payments project
+.IP \(em 4
+Led a weekly lunch club learning Lisp(s)
+
+.RS
+.TP
+.ft I
+Skills
+.ft
+.IP \(em 4
+Small applications as experiments to gather the maximum information on real requirements
+.IP \(em 4
+https://continuousdelivery.com/ \fBat\fP \fIContinuous delivery\fP with https://trunkbaseddevelopment.com/ \fBat\fP \fItrunk based development\fP
+.IP \(em 4
+Leveraging modern HTML and CSS to build simple, functional web applications
+.IP \(em 4
+Building browser extensions as an integration point across legacy systems
+.IP \(em 4
+An event sourced architecture built on top of https://kotlinlang.org/ \fBat\fP \fIKotlin\fP and PostgreSQL
+.IP \(em 4
+Deploying applications on a https://www.cloudfoundry.org/ \fBat\fP \fICloud Foundry\fP platform
+.RE
+
+.SS "http://www.acuris.com/ \fBat\fP \fIAcuris\fP"
+.SS "\fIDeveloper (January 2015 - October 2017), Lead Developer (May 2016 - September 2016)\fP"
+.IP \(em 4
+Built a web-scraping and alerting system for US bankruptcy courts using a microservice architecture.
+.IP \(em 4
+Contributed to creation of new content delivery pipelines for the core business
+.IP \(em 4
+Led a team until I asked to be allowed to focus on development
+.IP \(em 4
+Led and iterated on the structure for regular hackdays
+
+.RS
+.TP
+.ft I
+Skills
+.ft
+.IP \(em 4
+Extending and upgrading NodeJS apps to use ES2015 features
+.IP \(em 4
+Languages - Groovy, Go, JavaScript, TypeScript
+.IP \(em 4
+Building frontends in vanilla JS, React and Redux
+.IP \(em 4
+Participated and led in learning and adoption of Go across development teams
+.IP \(em 4
+Building RESTful services using Express, Spark, Ratpack
+.IP \(em 4
+Using RabbitMQ to connect services
+.IP \(em 4
+Monitoring and logging using Graphite, DataDog, Logstash and Logentries
+.IP \(em 4
+Databases - MSSQL, Elasticsearch, MongoDB
+.IP \(em 4
+Web scraping using various libraries and regular expressions
+.IP \(em 4
+Participating in and leading retrospectives
+.RE
+
+.SS "http://www.makersacademy.com/ \fBat\fP \fIMakers Academy\fP"
+.RS
+.TP
+.ft I
+\fIStudent (August 2014 - October 2014), Tutor (October 2014 - December 2014)\fP
+.ft
+.IP \(em 4
+Full-stack web development bootcamp in Ruby, JavaScript, Rails, Sinatra and NodeJS
+.IP \(em 4
+Learned TDD/BDD, pair programming and other modern development practices
+.RE
+
+.TP
+.ft I
+Skills
+.ft
+.IP \(em 4
+Ruby and JavaScript
+.IP \(em 4
+Frontend skills in HTML5, CSS and JQuery
+.IP \(em 4
+Version control with git and GitHub
+.RE
+
+.SS "\fICourses, Conferences, External Activities\fP"
+.IP \(em 4
+Recent conferences: Software Craftmanship London, GopherCon Europe, QCon 2016
+.IP \(em 4
+Lead Developer Workshop: \fIBe a brilliant people developer\fP
+.IP \(em 4
+\fISingle Page Applications with AngularJS and TypeScript\fP - Skills Matter
+.IP \(em 4
+https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84 \fBat\fP \fI\fIAlgorithmic Toolbox\fP\fP by University of California, San Diego & Higher School of Economics on Coursera
+
+.SS "Languages"
+.IP \(em 4
+Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
+.IP \(em 4
+Used outside of work: Lisps, OCaml
+
+.SS "\fIOther Employment\fP"
+.SS "Liberis"
+.PP
+\fIMarketing Executive (March 2014 - August 2014)\fP
+
+.SS "Polyglobe Group"
+.PP
+\fIMarketing Executive (March 2013 - February 2014)\fP
+
+.SS "Education"
+.TS
+ center,box;
+
+l l l .
+Dates	Institution	Subject(s)
+_
+2003 - 2005	University of Warwick	MA Continental Philosophy
+2000 - 2003	University of Warwick	BA Philosophy (1:1)
+1991 - 1998	Wisbech Grammar School	A level Maths, Biology & Chemistry; 10 GCSEs
+.TE
+.TB ""
+
+.SS "I Like"
+.PP
+TDD, DDD, functional programming, https://www.chess.com/member/gypsydave5 \fBat\fP \fIchess\fP, boardgames, playing the recorder, early music, Oxford commas, and the philosophy of language.
+
+.SS "Contact"
+.PP
+You can reach me as @https://twitter.com/gypsydave5 \fBat\fP \fIgypsydave5\fP on Twitter and mailto:dave@gypsydave5.com \fBat\fP \fIdave.wickes@gmail.com\fP by email. There's a blog (http://blog.gypsydave5.com/ \fBat\fP \fIblog.gypsydave5.com\fP), and my https://github.com/gypsydave5 \fBat\fP \fIGitHub\fP account too if you'd like to see what I'm up to and thinking.

@@ -1,3 +1,4 @@
+
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+OPTIONS: H:4
@@ -22,17 +23,19 @@
 - Worked initially on the platform team building tooling around AWS
 - Moved to a product team building web applications
 - Initiated and ran the departments mentoring programme
+- Acted as pro tem lead for the team
 
 **** Skills
       :PROPERTIES:
       :CUSTOM_ID: skills-0
       :END:
 - Use of graphical JavaScript libraries to display information
-- [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] architecture in TypeScript
+- [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript
 - Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
 - [[https://nextjs.org/][Next.js]], a React based web framework
-- Promoted the use of DevOps techniques for building software
+- Promoted the use of DevOps and Agile techniques for building software
 - Configuring multiple AWS services using [[https://www.terraform.io/][Terraform]]
+- Working with [[https://svelte.dev/][Svelte]]
 
 ** [[http://www.springernature.com][SpringerNature Digital]]
    :PROPERTIES:

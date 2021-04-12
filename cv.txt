@@ -1,0 +1,226 @@
+gypsydave5
+
+
+David Wickes
+════════════
+
+  An agile, iterative, and test-driven developer.
+
+
+[Acuris]
+────────
+
+
+
+[Acuris] <http://www.acuris.com/>
+
+/Senior Developer (June 2019 - Present)/
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  • Financial journalism company, providing alerting and research
+    services to multiple sectors.
+  • Worked initially on the platform team building tooling around AWS
+  • Moved to a product team building web applications
+  • Initiated and ran the departments mentoring programme
+  • Acted as pro tem lead for the team
+
+
+Skills
+┄┄┄┄┄┄
+
+  • Use of graphical JavaScript libraries to display information
+  • [Event sourced] backend architecture in TypeScript
+  • Rapid prototyping using spreadsheets as backend (both Excel and
+    Google Sheets)
+  • [Next.js], a React based web framework
+  • Promoted the use of DevOps and Agile techniques for building
+    software
+  • Configuring multiple AWS services using [Terraform]
+  • Working with [Svelte]
+
+
+[Event sourced] <https://martinfowler.com/eaaDev/EventSourcing.html>
+
+[Next.js] <https://nextjs.org/>
+
+[Terraform] <https://www.terraform.io/>
+
+[Svelte] <https://svelte.dev/>
+
+
+[SpringerNature Digital]
+────────────────────────
+
+
+
+[SpringerNature Digital] <http://www.springernature.com>
+
+/Developer (October 2017 - June 2019)/
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  • International scientific publisher
+  • Joined to work as part of a small innovations team, working across
+    the company
+  • Dissolution of team resulted in move to high-priority payments
+    project
+  • Led a weekly lunch club learning Lisp(s)
+
+
+Skills
+┄┄┄┄┄┄
+
+  • Small applications as experiments to gather the maximum information
+    on real requirements
+  • [Continuous delivery] with [trunk based development]
+  • Leveraging modern HTML and CSS to build simple, functional web
+    applications
+  • Building browser extensions as an integration point across legacy
+    systems
+  • An event sourced architecture built on top of [Kotlin] and
+    PostgreSQL
+  • Deploying applications on a [Cloud Foundry] platform
+
+
+[Continuous delivery] <https://continuousdelivery.com/>
+
+[trunk based development] <https://trunkbaseddevelopment.com/>
+
+[Kotlin] <https://kotlinlang.org/>
+
+[Cloud Foundry] <https://www.cloudfoundry.org/>
+
+
+[Acuris]
+────────
+
+
+
+[Acuris] <http://www.acuris.com/>
+
+/Developer (January 2015 - October 2017), Lead Developer (May 2016 - September 2016)/
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  • Built a web-scraping and alerting system for US bankruptcy courts
+    using a microservice architecture.
+  • Contributed to creation of new content delivery pipelines for the
+    core business
+  • Led a team until I asked to be allowed to focus on development
+  • Led and iterated on the structure for regular hackdays
+
+
+Skills
+┄┄┄┄┄┄
+
+  • Extending and upgrading NodeJS apps to use ES2015 features
+  • Languages - Groovy, Go, JavaScript, TypeScript
+  • Building frontends in vanilla JS, React and Redux
+  • Participated and led in learning and adoption of Go across
+    development teams
+  • Building RESTful services using Express, Spark, Ratpack
+  • Using RabbitMQ to connect services
+  • Monitoring and logging using Graphite, DataDog, Logstash and
+    Logentries
+  • Databases - MSSQL, Elasticsearch, MongoDB
+  • Web scraping using various libraries and regular expressions
+  • Participating in and leading retrospectives
+
+
+[Makers Academy]
+────────────────
+
+
+
+[Makers Academy] <http://www.makersacademy.com/>
+
+/Student (August 2014 - October 2014), Tutor (October 2014 - December 2014)/
+┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+
+  • Full-stack web development bootcamp in Ruby, JavaScript, Rails,
+    Sinatra and NodeJS
+  • Learned TDD/BDD, pair programming and other modern development
+    practices
+
+
+Skills
+┄┄┄┄┄┄
+
+  • Ruby and JavaScript
+  • Frontend skills in HTML5, CSS and JQuery
+  • Version control with git and GitHub
+
+
+/Courses, Conferences, External Activities/
+───────────────────────────────────────────
+
+  • Recent conferences: Software Craftmanship London, GopherCon Europe,
+    QCon 2016
+  • Lead Developer Workshop: /Be a brilliant people developer/
+  • /Single Page Applications with AngularJS and TypeScript/ - Skills
+    Matter
+  • [/Algorithmic Toolbox/] by University of California, San Diego &
+    Higher School of Economics on Coursera
+
+
+[/Algorithmic Toolbox/]
+<https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84>
+
+Languages
+╌╌╌╌╌╌╌╌╌
+
+  • Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
+  • Used outside of work: Lisps, OCaml
+
+
+/Other Employment/
+──────────────────
+
+Liberis
+╌╌╌╌╌╌╌
+
+  /Marketing Executive (March 2014 - August 2014)/
+
+
+Polyglobe Group
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  /Marketing Executive (March 2013 - February 2014)/
+
+
+Education
+─────────
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Dates        Institution             Subject(s)
+  ───────────────────────────────────────────────────────────────────────────────────
+   2003 - 2005  University of Warwick   MA Continental Philosophy
+   2000 - 2003  University of Warwick   BA Philosophy (1:1)
+   1991 - 1998  Wisbech Grammar School  A level Maths, Biology & Chemistry; 10 GCSEs
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+I Like
+──────
+
+  TDD, DDD, functional programming, [chess], boardgames, playing the
+  recorder, early music, Oxford commas, and the philosophy of language.
+
+
+[chess] <https://www.chess.com/member/gypsydave5>
+
+
+Contact
+───────
+
+  You can reach me as @[gypsydave5] on Twitter and
+  [dave.wickes@gmail.com] by email. There's a blog
+  ([blog.gypsydave5.com]), and my [GitHub] account too if you'd like to
+  see what I'm up to and thinking.
+
+
+[gypsydave5] <https://twitter.com/gypsydave5>
+
+[dave.wickes@gmail.com] <mailto:dave@gypsydave5.com>
+
+[blog.gypsydave5.com] <http://blog.gypsydave5.com/>
+
+[GitHub] <https://github.com/gypsydave5>
