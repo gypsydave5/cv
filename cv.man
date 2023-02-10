@@ -1,14 +1,40 @@
 .SH David Wickes
 .PP
 An agile, iterative, and test-driven developer.
-.SS Saltpay
+.SS Saltpay (https://www.saltpay.co/)
 .SS \f[I]Senior Developer / Tech Lead (May 2022 - Present)\f[R]
+.IP \[bu] 2
+Provider of payments services to small and medium enterprises
+.IP \[bu] 2
+Responsible for the integration of dependencies for the onboarding of
+customers
+.IP \[bu] 2
+Consulted internally on testing strategies and TDD
+.IP \[bu] 2
+Built tooling within the team to improve process
 .SS Skills
-.SS Triptease
+.IP \[bu] 2
+Go programming language
+.IP \[bu] 2
+Architecture and decision documentation
+.IP \[bu] 2
+Deployment on a Kubernates cluster
+.SS Triptease (https://www.triptease.com/)
 .SS \f[I]Senior Developer (July 2021 - April 2022)\f[R]
+.IP \[bu] 2
+Hotel digital services company manging digital advertising
+.IP \[bu] 2
+Worked in team responsible for display advertising
 .SS Skills
+.IP \[bu] 2
+Primarily programmed in TypeScript
+.IP \[bu] 2
+Management of a statistical model to calculate the correct advertising
+bids
+.IP \[bu] 2
+Contributed multiple learning sessions to help teams learn TypeScript
 .SS Acuris (http://www.acuris.com/)
-.SS \f[I]Senior Developer (June 2019 - June 2021)\f[R]
+.SS \f[I]Senior Developer (July 2019 - June 2021)\f[R]
 .IP \[bu] 2
 Financial journalism company, providing alerting and research services
 to multiple sectors.
@@ -38,7 +64,7 @@ Terraform (https://www.terraform.io/)
 .IP \[bu] 2
 Working with Svelte (https://svelte.dev/)
 .SS SpringerNature Digital (http://www.springernature.com)
-.SS \f[I]Developer (October 2017 - June 2019)\f[R]
+.SS \f[I]Developer (October 2017 - July 2019)\f[R]
 .IP \[bu] 2
 International scientific publisher
 .IP \[bu] 2
@@ -117,8 +143,11 @@ Frontend skills in HTML5, CSS and JQuery
 Version control with git and GitHub
 .SS \f[I]Courses, Conferences, External Activities\f[R]
 .IP \[bu] 2
-Recent conferences: Software Craftmanship London, GopherCon Europe, QCon
-2016
+Contributor to Go Time podcast on TDD (https://changelog.com/gotime/185)
+and htmx (https://changelog.com/gotime/266)
+.IP \[bu] 2
+Recent conferences: GopherCon London, Software Craftmanship London,
+GopherCon Europe, QCon
 .IP \[bu] 2
 Lead Developer Workshop: \f[I]Be a brilliant people developer\f[R]
 .IP \[bu] 2

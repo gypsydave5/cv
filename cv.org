@@ -9,37 +9,51 @@
 
 An agile, iterative, and test-driven developer.
 
-** Saltpay
+** [[https://www.saltpay.co/][Saltpay]]
    :PROPERTIES:
    :CUSTOM_ID: saltpay
    :END:
 
 *** /Senior Developer / Tech Lead (May 2022 - Present)/
+:PROPERTIES:
+:CUSTOM_ID: saltpay-role
+:END:
+- Provider of payments services to small and medium enterprises
+- Responsible for the integration of dependencies for the onboarding of customers
+- Consulted internally on testing strategies and TDD
+- Built tooling within the team to improve process
 
 **** Skills
 :PROPERTIES:
 :CUSTOM_ID: skills-saltpay
 :END:
+- Go programming language
+- Architecture and decision documentation
+- Deployment on a Kubernates cluster
 
-
-** Triptease
+** [[https://www.triptease.com/][Triptease]]
    :PROPERTIES:
    :CUSTOM_ID: triptease
    :END:
 
 *** /Senior Developer (July 2021 - April 2022)/
+- Hotel digital services company manging digital advertising
+- Worked in team responsible for display advertising
 
 **** Skills
 :PROPERTIES:
 :CUSTOM_ID: skills-triptease
 :END:
+- Primarily programmed in TypeScript
+- Management of a statistical model to calculate the correct advertising bids
+- Contributed multiple learning sessions to help teams learn TypeScript
 
 ** [[http://www.acuris.com/][Acuris]]
    :PROPERTIES:
    :CUSTOM_ID: acuris
    :END:
 
-*** /Senior Developer (June 2019 - June 2021)/
+*** /Senior Developer (July 2019 - June 2021)/
      :PROPERTIES:
      :CUSTOM_ID: senior-developer-june-2019---present
      :END:
@@ -66,7 +80,7 @@ An agile, iterative, and test-driven developer.
    :CUSTOM_ID: springernature-digital
    :END:
 
-*** /Developer (October 2017 - June 2019)/
+*** /Developer (October 2017 - July 2019)/
      :PROPERTIES:
      :CUSTOM_ID: developer-october-2017---june-2019
      :END:
@@ -133,6 +147,7 @@ An agile, iterative, and test-driven developer.
 
 **** Skills
       :PROPERTIES:
+      
       :CUSTOM_ID: skills-2
       :END:
 
@@ -145,7 +160,8 @@ An agile, iterative, and test-driven developer.
    :CUSTOM_ID: courses-conferences-external-activities
    :END:
 
-- Recent conferences: Software Craftmanship London, GopherCon Europe, QCon 2016
+- Contributor to Go Time podcast on [[https://changelog.com/gotime/185][TDD]] and [[https://changelog.com/gotime/266][htmx]]
+- Recent conferences: GopherCon London, Software Craftmanship London, GopherCon Europe, QCon
 - Lead Developer Workshop: /Be a brilliant people developer/
 - /Single Page Applications with AngularJS and TypeScript/ - Skills Matter
 - [[https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84][/Algorithmic Toolbox/]] by University of California, San Diego & Higher School of Economics on Coursera

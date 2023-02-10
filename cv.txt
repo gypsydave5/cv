@@ -2,21 +2,40 @@
 
 An agile, iterative, and test-driven developer.
 
-## Saltpay
+## [Saltpay](https://www.saltpay.co/)
 
-### *Senior Developer / Tech Lead (May 2022 - Present)*
+### *Senior Developer / Tech Lead (May 2022 - Present)* {#saltpay-role}
+
+-   Provider of payments services to small and medium enterprises
+-   Responsible for the integration of dependencies for the onboarding
+    of customers
+-   Consulted internally on testing strategies and TDD
+-   Built tooling within the team to improve process
 
 #### Skills {#skills-saltpay}
 
-## Triptease
+-   Go programming language
+-   Architecture and decision documentation
+-   Deployment on a Kubernates cluster
+
+## [Triptease](https://www.triptease.com/)
 
 ### *Senior Developer (July 2021 - April 2022)*
 
+-   Hotel digital services company manging digital advertising
+-   Worked in team responsible for display advertising
+
 #### Skills {#skills-triptease}
+
+-   Primarily programmed in TypeScript
+-   Management of a statistical model to calculate the correct
+    advertising bids
+-   Contributed multiple learning sessions to help teams learn
+    TypeScript
 
 ## [Acuris](http://www.acuris.com/)
 
-### *Senior Developer (June 2019 - June 2021)* {#senior-developer-june-2019---present}
+### *Senior Developer (July 2019 - June 2021)* {#senior-developer-june-2019---present}
 
 -   Financial journalism company, providing alerting and research
     services to multiple sectors.
@@ -41,7 +60,7 @@ An agile, iterative, and test-driven developer.
 
 ## [SpringerNature Digital](http://www.springernature.com)
 
-### *Developer (October 2017 - June 2019)*
+### *Developer (October 2017 - July 2019)* {#developer-october-2017---june-2019}
 
 -   International scientific publisher
 -   Joined to work as part of a small innovations team, working across
@@ -108,8 +127,11 @@ An agile, iterative, and test-driven developer.
 
 ## *Courses, Conferences, External Activities*
 
--   Recent conferences: Software Craftmanship London, GopherCon Europe,
-    QCon 2016
+-   Contributor to Go Time podcast on
+    [TDD](https://changelog.com/gotime/185) and
+    [htmx](https://changelog.com/gotime/266)
+-   Recent conferences: GopherCon London, Software Craftmanship London,
+    GopherCon Europe, QCon
 -   Lead Developer Workshop: *Be a brilliant people developer*
 -   *Single Page Applications with AngularJS and TypeScript* - Skills
     Matter
