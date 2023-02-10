@@ -1,4 +1,3 @@
-
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+OPTIONS: H:4
@@ -8,27 +7,52 @@
   :CUSTOM_ID: david-wickes
   :END:
 
-  An agile, iterative, and test-driven developer.
+An agile, iterative, and test-driven developer.
+
+** Saltpay
+   :PROPERTIES:
+   :CUSTOM_ID: saltpay
+   :END:
+
+*** /Senior Developer / Tech Lead (May 2022 - Present)/
+
+**** Skills
+:PROPERTIES:
+:CUSTOM_ID: skills-saltpay
+:END:
+
+
+** Triptease
+   :PROPERTIES:
+   :CUSTOM_ID: triptease
+   :END:
+
+*** /Senior Developer (July 2021 - April 2022)/
+
+**** Skills
+:PROPERTIES:
+:CUSTOM_ID: skills-triptease
+:END:
 
 ** [[http://www.acuris.com/][Acuris]]
    :PROPERTIES:
    :CUSTOM_ID: acuris
    :END:
 
-*** /Senior Developer (June 2019 - Present)/
+*** /Senior Developer (June 2019 - June 2021)/
      :PROPERTIES:
      :CUSTOM_ID: senior-developer-june-2019---present
      :END:
 - Financial journalism company, providing alerting and research services to multiple sectors.
 - Worked initially on the platform team building tooling around AWS
 - Moved to a product team building web applications
-- Initiated and ran the departments mentoring programme
-- Acted as pro tem lead for the team
+- Initiated and ran the departments associate developer mentoring programme
 
 **** Skills
       :PROPERTIES:
       :CUSTOM_ID: skills-0
       :END:
+      
 - Use of graphical JavaScript libraries to display information
 - [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript
 - Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
@@ -132,7 +156,7 @@
     :END:
 
 - Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
-- Used outside of work: Lisps, OCaml
+- Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 
 ** /Other Employment/
    :PROPERTIES:
