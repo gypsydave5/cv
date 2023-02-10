@@ -15,8 +15,12 @@ An agile, iterative, and test-driven developer.
 #### Skills {#skills-saltpay}
 
 -   Go programming language
+-   PostgreSQL databases
 -   Architecture and decision documentation
 -   Deployment on a Kubernates cluster
+-   Small scale [contract
+    testing](https://martinfowler.com/bliki/ContractTest.html)
+-   Implemented Domain-Driven testing for multiple projects
 
 ## [Triptease](https://www.triptease.com/)
 
@@ -51,6 +55,8 @@ An agile, iterative, and test-driven developer.
     backend architecture in TypeScript
 -   Rapid prototyping using spreadsheets as backend (both Excel and
     Google Sheets)
+-   Learned [Domain-Driven
+    Testing](http://natpryce.com/articles/000819.html) (DDT)
 -   [Next.js](https://nextjs.org/), a React based web framework
 -   Promoted the use of DevOps and Agile techniques for building
     software
@@ -142,7 +148,8 @@ An agile, iterative, and test-driven developer.
 
 ### Languages
 
--   Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
+-   Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go,
+    Java
 -   Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 
 ## *Other Employment*
@@ -165,10 +172,9 @@ An agile, iterative, and test-driven developer.
 
 ## I Like
 
-TDD, DDD, functional programming,
-[chess](https://www.chess.com/member/gypsydave5), boardgames, playing
-the recorder, early music, Oxford commas, and the philosophy of
-language.
+TDD, DDD, functional programming, object-oriented programming,
+boardgames, chess, playing the recorder, early music, Oxford commas, and
+the philosophy of language.
 
 ## Contact
 
@@ -176,5 +182,6 @@ You can reach me as @[gypsydave5](https://twitter.com/gypsydave5) on
 Twitter and [dave.wickes@gmail.com](mailto:dave@gypsydave5.com) by
 email. There\'s a blog
 ([blog.gypsydave5.com](http://blog.gypsydave5.com/)), and my
-[GitHub](https://github.com/gypsydave5) account too if you\'d like to
-see what I\'m up to and thinking.
+[GitHub](https://github.com/gypsydave5) and
+[https://www.chess.com/member/gypsydave5\\](https://www.chess.com/member/gypsydave5\)\[sr.ht\]\]
+accounts too if you\'d like to see what I\'m up to and thinking.

@@ -16,9 +16,16 @@ Built tooling within the team to improve process
 .IP \[bu] 2
 Go programming language
 .IP \[bu] 2
+PostgreSQL databases
+.IP \[bu] 2
 Architecture and decision documentation
 .IP \[bu] 2
 Deployment on a Kubernates cluster
+.IP \[bu] 2
+Small scale contract
+testing (https://martinfowler.com/bliki/ContractTest.html)
+.IP \[bu] 2
+Implemented Domain-Driven testing for multiple projects
 .SS Triptease (https://www.triptease.com/)
 .SS \f[I]Senior Developer (July 2021 - April 2022)\f[R]
 .IP \[bu] 2
@@ -54,6 +61,9 @@ backend architecture in TypeScript
 .IP \[bu] 2
 Rapid prototyping using spreadsheets as backend (both Excel and Google
 Sheets)
+.IP \[bu] 2
+Learned Domain-Driven Testing (http://natpryce.com/articles/000819.html)
+(DDT)
 .IP \[bu] 2
 Next.js (https://nextjs.org/), a React based web framework
 .IP \[bu] 2
@@ -160,7 +170,8 @@ by University of California, San Diego & Higher School of Economics on
 Coursera
 .SS Languages
 .IP \[bu] 2
-Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
+Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go,
+Java
 .IP \[bu] 2
 Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 .SS \f[I]Other Employment\f[R]
@@ -207,14 +218,15 @@ T}
 .TE
 .SS I Like
 .PP
-TDD, DDD, functional programming,
-chess (https://www.chess.com/member/gypsydave5), boardgames, playing the
-recorder, early music, Oxford commas, and the philosophy of language.
+TDD, DDD, functional programming, object-oriented programming,
+boardgames, chess, playing the recorder, early music, Oxford commas, and
+the philosophy of language.
 .SS Contact
 .PP
 You can reach me as \[at]gypsydave5 (https://twitter.com/gypsydave5) on
 Twitter and dave.wickes\[at]gmail.com (mailto:dave@gypsydave5.com) by
 email.
 There\[aq]s a blog (blog.gypsydave5.com (http://blog.gypsydave5.com/)),
-and my GitHub (https://github.com/gypsydave5) account too if you\[aq]d
-like to see what I\[aq]m up to and thinking.
+and my GitHub (https://github.com/gypsydave5) and
+https://www.chess.com/member/gypsydave5\[rs][sr.ht]] accounts too if
+you\[aq]d like to see what I\[aq]m up to and thinking.

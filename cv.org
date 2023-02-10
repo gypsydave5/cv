@@ -28,8 +28,11 @@ An agile, iterative, and test-driven developer.
 :CUSTOM_ID: skills-saltpay
 :END:
 - Go programming language
+- PostgreSQL databases
 - Architecture and decision documentation
 - Deployment on a Kubernates cluster
+- Small scale [[https://martinfowler.com/bliki/ContractTest.html][contract testing]]
+- Implemented Domain-Driven testing for multiple projects
 
 ** [[https://www.triptease.com/][Triptease]]
    :PROPERTIES:
@@ -70,6 +73,7 @@ An agile, iterative, and test-driven developer.
 - Use of graphical JavaScript libraries to display information
 - [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript
 - Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
+- Learned [[http://natpryce.com/articles/000819.html][Domain-Driven Testing]] (DDT)
 - [[https://nextjs.org/][Next.js]], a React based web framework
 - Promoted the use of DevOps and Agile techniques for building software
 - Configuring multiple AWS services using [[https://www.terraform.io/][Terraform]]
@@ -171,7 +175,7 @@ An agile, iterative, and test-driven developer.
     :CUSTOM_ID: languages
     :END:
 
-- Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go
+- Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go, Java
 - Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 
 ** /Other Employment/
@@ -209,11 +213,11 @@ An agile, iterative, and test-driven developer.
    :CUSTOM_ID: i-like
    :END:
 
-TDD, DDD, functional programming, [[https://www.chess.com/member/gypsydave5][chess]], boardgames, playing the recorder, early music, Oxford commas, and the philosophy of language.
+TDD, DDD, functional programming, object-oriented programming, boardgames, chess, playing the recorder, early music, Oxford commas, and the philosophy of language.
 
 ** Contact
    :PROPERTIES:
    :CUSTOM_ID: contact
    :END:
 
-You can reach me as @[[https://twitter.com/gypsydave5][gypsydave5]] on Twitter and [[mailto:dave@gypsydave5.com][dave.wickes@gmail.com]] by email. There's a blog ([[http://blog.gypsydave5.com/][blog.gypsydave5.com]]), and my [[https://github.com/gypsydave5][GitHub]] account too if you'd like to see what I'm up to and thinking.
+You can reach me as @[[https://twitter.com/gypsydave5][gypsydave5]] on Twitter and [[mailto:dave@gypsydave5.com][dave.wickes@gmail.com]] by email. There's a blog ([[http://blog.gypsydave5.com/][blog.gypsydave5.com]]), and my [[https://github.com/gypsydave5][GitHub]]  and [[https://www.chess.com/member/gypsydave5\]][sr.ht]] accounts too if you'd like to see what I'm up to and thinking.
