@@ -10,24 +10,21 @@ Responsible for the integration of dependencies for the onboarding of
 customers
 .IP \[bu] 2
 Consulted internally on testing strategies and TDD
-.IP \[bu] 2
-Built tooling within the team to improve process
 .SS Skills
 .IP \[bu] 2
-Go programming language
+Go programming language, PostgreSQL, Kafka
 .IP \[bu] 2
-PostgreSQL databases
+Deployment on Kubernates using Tekton
 .IP \[bu] 2
-Architecture and decision documentation
+Monitoring using Grafana suite
 .IP \[bu] 2
-Deployment on a Kubernates cluster
+Architecture, roadmaps and decision documentation
 .IP \[bu] 2
 Small scale contract
 testing (https://martinfowler.com/bliki/ContractTest.html)
 .IP \[bu] 2
 Implemented Domain-Driven
-Testing (http://www.natpryce.com/articles/000819.html) for multiple
-projects
+Testing (http://www.natpryce.com/articles/000819.html)
 .SS Triptease (https://www.triptease.com/)
 .SS \f[I]Senior Developer (July 2021 - April 2022)\f[R]
 .IP \[bu] 2
@@ -36,10 +33,11 @@ Hotel digital services company manging digital advertising
 Worked in team responsible for display advertising
 .SS Skills
 .IP \[bu] 2
-Primarily programmed in TypeScript
+TypeScript on Node.js
 .IP \[bu] 2
-Management of a statistical model to calculate the correct advertising
-bids
+Deployed on Google Cloud Platform (Kubernates and other tools)
+.IP \[bu] 2
+Management of a statistical model to calculate advertising bids
 .IP \[bu] 2
 Contributed multiple learning sessions to help teams learn TypeScript
 .SS Acuris (http://www.acuris.com/)
@@ -59,13 +57,10 @@ programme
 Use of graphical JavaScript libraries to display information
 .IP \[bu] 2
 Event sourced (https://martinfowler.com/eaaDev/EventSourcing.html)
-backend architecture in TypeScript
+backend architecture in TypeScript / Go
 .IP \[bu] 2
 Rapid prototyping using spreadsheets as backend (both Excel and Google
 Sheets)
-.IP \[bu] 2
-Learned Domain-Driven Testing (http://natpryce.com/articles/000819.html)
-(DDT)
 .IP \[bu] 2
 Next.js (https://nextjs.org/), a React based web framework
 .IP \[bu] 2
@@ -73,8 +68,6 @@ Promoted the use of DevOps and Agile techniques for building software
 .IP \[bu] 2
 Configuring multiple AWS services using
 Terraform (https://www.terraform.io/)
-.IP \[bu] 2
-Working with Svelte (https://svelte.dev/)
 .SS SpringerNature Digital (http://www.springernature.com)
 .SS \f[I]Developer (October 2017 - July 2019)\f[R]
 .IP \[bu] 2
@@ -97,16 +90,14 @@ development (https://trunkbaseddevelopment.com/)
 Leveraging modern HTML and CSS to build simple, functional web
 applications
 .IP \[bu] 2
-Building browser extensions as an integration point across legacy
-systems
+Building browser extensions in JavaScript as an integration point across
+legacy systems
 .IP \[bu] 2
-Used Kotlin (https://kotlinlang.org/) and PostgreSQL
-.IP \[bu] 2
-Deploying applications on a Cloud
+Used Kotlin (https://kotlinlang.org/) and PostgreSQL on Cloud
 Foundry (https://www.cloudfoundry.org/) platform
 .IP \[bu] 2
 Learned Domain-Driven
-Testing (http://www.natpryce.com/articles/000819.html) + Event
+Testing (http://www.natpryce.com/articles/000819.html) and Event
 Sourcing (https://martinfowler.com/eaaDev/EventSourcing.html) from Nat
 Pryce and Uberto Barbini
 .SS Acuris (http://www.acuris.com/)
@@ -123,8 +114,6 @@ Led a team until I asked to be allowed to focus on development
 Led and iterated on the structure for regular hackdays
 .SS Skills
 .IP \[bu] 2
-Extending and upgrading NodeJS apps to use ES2015 features
-.IP \[bu] 2
 Languages - Groovy, Go, JavaScript, TypeScript
 .IP \[bu] 2
 Building frontends in vanilla JS, React and Redux
@@ -132,15 +121,9 @@ Building frontends in vanilla JS, React and Redux
 Participated and led in learning and adoption of Go across development
 teams
 .IP \[bu] 2
-Building RESTful services using Express, Spark, Ratpack
-.IP \[bu] 2
-Using RabbitMQ to connect services
-.IP \[bu] 2
 Monitoring and logging using Graphite, DataDog, Logstash and Logentries
 .IP \[bu] 2
-Databases - MSSQL, Elasticsearch, MongoDB
-.IP \[bu] 2
-Web scraping using various libraries and regular expressions
+MSSQL, Elasticsearch, MongoDB, RabbitMQ as a message broker
 .IP \[bu] 2
 Participating in and leading retrospectives
 .SS Makers Academy (http://www.makersacademy.com/)
@@ -150,11 +133,8 @@ Full-stack web development bootcamp in Ruby, JavaScript, Rails, Sinatra
 and NodeJS
 .IP \[bu] 2
 Learned TDD/BDD, pair programming and other modern development practices
-.SS Skills
 .IP \[bu] 2
-Ruby and JavaScript
-.IP \[bu] 2
-Frontend skills in HTML5, CSS and JQuery
+Ruby, JavaScript, HTML5, CSS and JQuery
 .IP \[bu] 2
 Version control with git and GitHub
 .SS \f[I]Courses, Conferences, External Activities\f[R]
@@ -164,11 +144,6 @@ and htmx (https://changelog.com/gotime/266)
 .IP \[bu] 2
 Recent conferences: GopherCon London, Software Craftmanship London,
 GopherCon Europe, QCon
-.IP \[bu] 2
-Lead Developer Workshop: \f[I]Be a brilliant people developer\f[R]
-.IP \[bu] 2
-\f[I]Single Page Applications with AngularJS and TypeScript\f[R] -
-Skills Matter
 .IP \[bu] 2
 \f[I]Algorithmic
 Toolbox\f[R] (https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84)
@@ -180,13 +155,6 @@ Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go,
 Java
 .IP \[bu] 2
 Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
-.SS \f[I]Other Employment\f[R]
-.SS Liberis
-.PP
-\f[I]Marketing Executive (March 2014 - August 2014)\f[R]
-.SS Polyglobe Group
-.PP
-\f[I]Marketing Executive (March 2013 - February 2014)\f[R]
 .SS Education
 .PP
 .TS
@@ -201,25 +169,11 @@ Subject(s)
 T}
 _
 T{
-2003 - 2005
+2000 - 2005
 T}@T{
 University of Warwick
 T}@T{
-MA Continental Philosophy
-T}
-T{
-2000 - 2003
-T}@T{
-University of Warwick
-T}@T{
-BA Philosophy (1:1)
-T}
-T{
-1991 - 1998
-T}@T{
-Wisbech Grammar School
-T}@T{
-A level Maths, Biology & Chemistry; 10 GCSEs
+BA Philosophy (1:1), MA Continental Philosophy
 T}
 .TE
 .SS I Like

@@ -10,19 +10,17 @@ An agile, iterative, and test-driven developer.
 -   Responsible for the integration of dependencies for the onboarding
     of customers
 -   Consulted internally on testing strategies and TDD
--   Built tooling within the team to improve process
 
 #### Skills {#skills-saltpay}
 
--   Go programming language
--   PostgreSQL databases
--   Architecture and decision documentation
--   Deployment on a Kubernates cluster
+-   Go programming language, PostgreSQL, Kafka
+-   Deployment on Kubernates using Tekton
+-   Monitoring using Grafana suite
+-   Architecture, roadmaps and decision documentation
 -   Small scale [contract
     testing](https://martinfowler.com/bliki/ContractTest.html)
 -   Implemented [Domain-Driven
-    Testing](http://www.natpryce.com/articles/000819.html) for multiple
-    projects
+    Testing](http://www.natpryce.com/articles/000819.html)
 
 ## [Triptease](https://www.triptease.com/)
 
@@ -33,9 +31,9 @@ An agile, iterative, and test-driven developer.
 
 #### Skills {#skills-triptease}
 
--   Primarily programmed in TypeScript
--   Management of a statistical model to calculate the correct
-    advertising bids
+-   TypeScript on Node.js
+-   Deployed on Google Cloud Platform (Kubernates and other tools)
+-   Management of a statistical model to calculate advertising bids
 -   Contributed multiple learning sessions to help teams learn
     TypeScript
 
@@ -54,17 +52,14 @@ An agile, iterative, and test-driven developer.
 
 -   Use of graphical JavaScript libraries to display information
 -   [Event sourced](https://martinfowler.com/eaaDev/EventSourcing.html)
-    backend architecture in TypeScript
+    backend architecture in TypeScript / Go
 -   Rapid prototyping using spreadsheets as backend (both Excel and
     Google Sheets)
--   Learned [Domain-Driven
-    Testing](http://natpryce.com/articles/000819.html) (DDT)
 -   [Next.js](https://nextjs.org/), a React based web framework
 -   Promoted the use of DevOps and Agile techniques for building
     software
 -   Configuring multiple AWS services using
     [Terraform](https://www.terraform.io/)
--   Working with [Svelte](https://svelte.dev/)
 
 ## [SpringerNature Digital](http://www.springernature.com)
 
@@ -85,13 +80,12 @@ An agile, iterative, and test-driven developer.
     based development](https://trunkbaseddevelopment.com/)
 -   Leveraging modern HTML and CSS to build simple, functional web
     applications
--   Building browser extensions as an integration point across legacy
-    systems
--   Used [Kotlin](https://kotlinlang.org/) and PostgreSQL
--   Deploying applications on a [Cloud
+-   Building browser extensions in JavaScript as an integration point
+    across legacy systems
+-   Used [Kotlin](https://kotlinlang.org/) and PostgreSQL on [Cloud
     Foundry](https://www.cloudfoundry.org/) platform
 -   Learned [Domain-Driven
-    Testing](http://www.natpryce.com/articles/000819.html) + [Event
+    Testing](http://www.natpryce.com/articles/000819.html) and [Event
     Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) from
     Nat Pryce and Uberto Barbini
 
@@ -108,17 +102,13 @@ An agile, iterative, and test-driven developer.
 
 #### Skills {#skills-1}
 
--   Extending and upgrading NodeJS apps to use ES2015 features
 -   Languages - Groovy, Go, JavaScript, TypeScript
 -   Building frontends in vanilla JS, React and Redux
 -   Participated and led in learning and adoption of Go across
     development teams
--   Building RESTful services using Express, Spark, Ratpack
--   Using RabbitMQ to connect services
 -   Monitoring and logging using Graphite, DataDog, Logstash and
     Logentries
--   Databases - MSSQL, Elasticsearch, MongoDB
--   Web scraping using various libraries and regular expressions
+-   MSSQL, Elasticsearch, MongoDB, RabbitMQ as a message broker
 -   Participating in and leading retrospectives
 
 ## [Makers Academy](http://www.makersacademy.com/)
@@ -129,11 +119,7 @@ An agile, iterative, and test-driven developer.
     Sinatra and NodeJS
 -   Learned TDD/BDD, pair programming and other modern development
     practices
-
-#### Skills {#skills-2}
-
--   Ruby and JavaScript
--   Frontend skills in HTML5, CSS and JQuery
+-   Ruby, JavaScript, HTML5, CSS and JQuery
 -   Version control with git and GitHub
 
 ## *Courses, Conferences, External Activities*
@@ -143,9 +129,6 @@ An agile, iterative, and test-driven developer.
     [htmx](https://changelog.com/gotime/266)
 -   Recent conferences: GopherCon London, Software Craftmanship London,
     GopherCon Europe, QCon
--   Lead Developer Workshop: *Be a brilliant people developer*
--   *Single Page Applications with AngularJS and TypeScript* - Skills
-    Matter
 -   [*Algorithmic
     Toolbox*](https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84)
     by University of California, San Diego & Higher School of Economics
@@ -157,23 +140,11 @@ An agile, iterative, and test-driven developer.
     Java
 -   Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 
-## *Other Employment*
-
-### Liberis
-
-*Marketing Executive (March 2014 - August 2014)*
-
-### Polyglobe Group
-
-*Marketing Executive (March 2013 - February 2014)*
-
 ## Education
 
-  Dates         Institution              Subject(s)
-  ------------- ------------------------ ----------------------------------------------
-  2003 - 2005   University of Warwick    MA Continental Philosophy
-  2000 - 2003   University of Warwick    BA Philosophy (1:1)
-  1991 - 1998   Wisbech Grammar School   A level Maths, Biology & Chemistry; 10 GCSEs
+  Dates         Institution             Subject(s)
+  ------------- ----------------------- ------------------------------------------------
+  2000 - 2005   University of Warwick   BA Philosophy (1:1), MA Continental Philosophy
 
 ## I Like
 

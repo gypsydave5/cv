@@ -21,18 +21,17 @@ An agile, iterative, and test-driven developer.
 - Provider of payments services to small and medium enterprises
 - Responsible for the integration of dependencies for the onboarding of customers
 - Consulted internally on testing strategies and TDD
-- Built tooling within the team to improve process
 
 **** Skills
 :PROPERTIES:
 :CUSTOM_ID: skills-saltpay
 :END:
-- Go programming language
-- PostgreSQL databases
-- Architecture and decision documentation
-- Deployment on a Kubernates cluster
+- Go programming language, PostgreSQL, Kafka
+- Deployment on Kubernates using Tekton
+- Monitoring using Grafana suite
+- Architecture, roadmaps and decision documentation
 - Small scale [[https://martinfowler.com/bliki/ContractTest.html][contract testing]]
-- Implemented [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]] for multiple projects
+- Implemented [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]]
 
 ** [[https://www.triptease.com/][Triptease]]
    :PROPERTIES:
@@ -47,8 +46,9 @@ An agile, iterative, and test-driven developer.
 :PROPERTIES:
 :CUSTOM_ID: skills-triptease
 :END:
-- Primarily programmed in TypeScript
-- Management of a statistical model to calculate the correct advertising bids
+- TypeScript on Node.js
+- Deployed on Google Cloud Platform (Kubernates and other tools)
+- Management of a statistical model to calculate advertising bids
 - Contributed multiple learning sessions to help teams learn TypeScript
 
 ** [[http://www.acuris.com/][Acuris]]
@@ -71,13 +71,11 @@ An agile, iterative, and test-driven developer.
       :END:
       
 - Use of graphical JavaScript libraries to display information
-- [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript
+- [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript / Go
 - Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
-- Learned [[http://natpryce.com/articles/000819.html][Domain-Driven Testing]] (DDT)
 - [[https://nextjs.org/][Next.js]], a React based web framework
 - Promoted the use of DevOps and Agile techniques for building software
 - Configuring multiple AWS services using [[https://www.terraform.io/][Terraform]]
-- Working with [[https://svelte.dev/][Svelte]]
 
 ** [[http://www.springernature.com][SpringerNature Digital]]
    :PROPERTIES:
@@ -102,10 +100,9 @@ An agile, iterative, and test-driven developer.
 - Small applications as experiments to gather the maximum information on real requirements
 - [[https://continuousdelivery.com/][Continuous delivery]] with [[https://trunkbaseddevelopment.com/][trunk based development]]
 - Leveraging modern HTML and CSS to build simple, functional web applications
-- Building browser extensions as an integration point across legacy systems
-- Used [[https://kotlinlang.org/][Kotlin]] and PostgreSQL
-- Deploying applications on a [[https://www.cloudfoundry.org/][Cloud Foundry]] platform
-- Learned [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]] + [[https://martinfowler.com/eaaDev/EventSourcing.html][Event Sourcing]] from Nat Pryce and Uberto Barbini
+- Building browser extensions in JavaScript as an integration point across legacy systems
+- Used [[https://kotlinlang.org/][Kotlin]] and PostgreSQL on [[https://www.cloudfoundry.org/][Cloud Foundry]] platform
+- Learned [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]] and [[https://martinfowler.com/eaaDev/EventSourcing.html][Event Sourcing]] from Nat Pryce and Uberto Barbini
 
 ** [[http://www.acuris.com/][Acuris]]
    :PROPERTIES:
@@ -126,15 +123,11 @@ An agile, iterative, and test-driven developer.
       :CUSTOM_ID: skills-1
       :END:
 
-- Extending and upgrading NodeJS apps to use ES2015 features
 - Languages - Groovy, Go, JavaScript, TypeScript
 - Building frontends in vanilla JS, React and Redux
 - Participated and led in learning and adoption of Go across development teams
-- Building RESTful services using Express, Spark, Ratpack
-- Using RabbitMQ to connect services
 - Monitoring and logging using Graphite, DataDog, Logstash and Logentries
-- Databases - MSSQL, Elasticsearch, MongoDB
-- Web scraping using various libraries and regular expressions
+- MSSQL, Elasticsearch, MongoDB, RabbitMQ as a message broker
 - Participating in and leading retrospectives
 
 ** [[http://www.makersacademy.com/][Makers Academy]]
@@ -149,15 +142,7 @@ An agile, iterative, and test-driven developer.
 
 - Full-stack web development bootcamp in Ruby, JavaScript, Rails, Sinatra and NodeJS
 - Learned TDD/BDD, pair programming and other modern development practices
-
-**** Skills
-      :PROPERTIES:
-      
-      :CUSTOM_ID: skills-2
-      :END:
-
-- Ruby and JavaScript
-- Frontend skills in HTML5, CSS and JQuery
+- Ruby, JavaScript, HTML5, CSS and JQuery
 - Version control with git and GitHub
 
 ** /Courses, Conferences, External Activities/
@@ -167,8 +152,6 @@ An agile, iterative, and test-driven developer.
 
 - Contributor to Go Time podcast on [[https://changelog.com/gotime/185][TDD]] and [[https://changelog.com/gotime/266][htmx]]
 - Recent conferences: GopherCon London, Software Craftmanship London, GopherCon Europe, QCon
-- Lead Developer Workshop: /Be a brilliant people developer/
-- /Single Page Applications with AngularJS and TypeScript/ - Skills Matter
 - [[https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84][/Algorithmic Toolbox/]] by University of California, San Diego & Higher School of Economics on Coursera
 
 *** Languages
@@ -179,25 +162,6 @@ An agile, iterative, and test-driven developer.
 - Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go, Java
 - Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 
-** /Other Employment/
-   :PROPERTIES:
-   :CUSTOM_ID: other-employment
-   :END:
-
-*** Liberis
-    :PROPERTIES:
-    :CUSTOM_ID: liberis
-    :END:
-
-/Marketing Executive (March 2014 - August 2014)/
-
-*** Polyglobe Group
-    :PROPERTIES:
-    :CUSTOM_ID: polyglobe-group
-    :END:
-
-/Marketing Executive (March 2013 - February 2014)/
-
 ** Education
    :PROPERTIES:
    :CUSTOM_ID: education
@@ -205,9 +169,8 @@ An agile, iterative, and test-driven developer.
 
 | Dates       | Institution            | Subject(s)                                   |
 |-------------+------------------------+----------------------------------------------|
-| 2003 - 2005 | University of Warwick  | MA Continental Philosophy                    |
-| 2000 - 2003 | University of Warwick  | BA Philosophy (1:1)                          |
-| 1991 - 1998 | Wisbech Grammar School | A level Maths, Biology & Chemistry; 10 GCSEs |
+| 2000 - 2005 | University of Warwick  | BA Philosophy (1:1), MA Continental Philosophy                  |
+
 
 ** I Like
    :PROPERTIES:
