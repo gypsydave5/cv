@@ -32,7 +32,7 @@ An agile, iterative, and test-driven developer.
 - Architecture and decision documentation
 - Deployment on a Kubernates cluster
 - Small scale [[https://martinfowler.com/bliki/ContractTest.html][contract testing]]
-- Implemented Domain-Driven testing for multiple projects
+- Implemented [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]] for multiple projects
 
 ** [[https://www.triptease.com/][Triptease]]
    :PROPERTIES:
@@ -103,8 +103,9 @@ An agile, iterative, and test-driven developer.
 - [[https://continuousdelivery.com/][Continuous delivery]] with [[https://trunkbaseddevelopment.com/][trunk based development]]
 - Leveraging modern HTML and CSS to build simple, functional web applications
 - Building browser extensions as an integration point across legacy systems
-- An event sourced architecture built on top of [[https://kotlinlang.org/][Kotlin]] and PostgreSQL
+- Used [[https://kotlinlang.org/][Kotlin]] and PostgreSQL
 - Deploying applications on a [[https://www.cloudfoundry.org/][Cloud Foundry]] platform
+- Learned [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]] + [[https://martinfowler.com/eaaDev/EventSourcing.html][Event Sourcing]] from Nat Pryce and Uberto Barbini
 
 ** [[http://www.acuris.com/][Acuris]]
    :PROPERTIES:
@@ -220,4 +221,4 @@ TDD, DDD, functional programming, object-oriented programming, boardgames, chess
    :CUSTOM_ID: contact
    :END:
 
-You can reach me as @[[https://twitter.com/gypsydave5][gypsydave5]] on Twitter and [[mailto:dave@gypsydave5.com][dave.wickes@gmail.com]] by email. There's a blog ([[http://blog.gypsydave5.com/][blog.gypsydave5.com]]), and my [[https://github.com/gypsydave5][GitHub]]  and [[https://www.chess.com/member/gypsydave5\]][sr.ht]] accounts too if you'd like to see what I'm up to and thinking.
+You can reach me as @[[https://twitter.com/gypsydave5][gypsydave5]] on Twitter and [[mailto:dave@gypsydave5.com][dave.wickes@gmail.com]] by email. There's a blog ([[http://blog.gypsydave5.com/][blog.gypsydave5.com]]), and my [[https://github.com/gypsydave5][GitHub]] and [[https://git.sr.ht/~dew/][sr.ht]] accounts too if you'd like to see what I'm up to and thinking.

@@ -20,7 +20,9 @@ An agile, iterative, and test-driven developer.
 -   Deployment on a Kubernates cluster
 -   Small scale [contract
     testing](https://martinfowler.com/bliki/ContractTest.html)
--   Implemented Domain-Driven testing for multiple projects
+-   Implemented [Domain-Driven
+    Testing](http://www.natpryce.com/articles/000819.html) for multiple
+    projects
 
 ## [Triptease](https://www.triptease.com/)
 
@@ -85,10 +87,13 @@ An agile, iterative, and test-driven developer.
     applications
 -   Building browser extensions as an integration point across legacy
     systems
--   An event sourced architecture built on top of
-    [Kotlin](https://kotlinlang.org/) and PostgreSQL
+-   Used [Kotlin](https://kotlinlang.org/) and PostgreSQL
 -   Deploying applications on a [Cloud
     Foundry](https://www.cloudfoundry.org/) platform
+-   Learned [Domain-Driven
+    Testing](http://www.natpryce.com/articles/000819.html) + [Event
+    Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) from
+    Nat Pryce and Uberto Barbini
 
 ## [Acuris](http://www.acuris.com/)
 
@@ -183,5 +188,5 @@ Twitter and [dave.wickes@gmail.com](mailto:dave@gypsydave5.com) by
 email. There\'s a blog
 ([blog.gypsydave5.com](http://blog.gypsydave5.com/)), and my
 [GitHub](https://github.com/gypsydave5) and
-[https://www.chess.com/member/gypsydave5\\](https://www.chess.com/member/gypsydave5\)\[sr.ht\]\]
-accounts too if you\'d like to see what I\'m up to and thinking.
+[sr.ht](https://git.sr.ht/~dew/) accounts too if you\'d like to see what
+I\'m up to and thinking.

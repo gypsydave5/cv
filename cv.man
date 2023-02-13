@@ -25,7 +25,9 @@ Deployment on a Kubernates cluster
 Small scale contract
 testing (https://martinfowler.com/bliki/ContractTest.html)
 .IP \[bu] 2
-Implemented Domain-Driven testing for multiple projects
+Implemented Domain-Driven
+Testing (http://www.natpryce.com/articles/000819.html) for multiple
+projects
 .SS Triptease (https://www.triptease.com/)
 .SS \f[I]Senior Developer (July 2021 - April 2022)\f[R]
 .IP \[bu] 2
@@ -98,11 +100,15 @@ applications
 Building browser extensions as an integration point across legacy
 systems
 .IP \[bu] 2
-An event sourced architecture built on top of
-Kotlin (https://kotlinlang.org/) and PostgreSQL
+Used Kotlin (https://kotlinlang.org/) and PostgreSQL
 .IP \[bu] 2
 Deploying applications on a Cloud
 Foundry (https://www.cloudfoundry.org/) platform
+.IP \[bu] 2
+Learned Domain-Driven
+Testing (http://www.natpryce.com/articles/000819.html) + Event
+Sourcing (https://martinfowler.com/eaaDev/EventSourcing.html) from Nat
+Pryce and Uberto Barbini
 .SS Acuris (http://www.acuris.com/)
 .SS \f[I]Developer (January 2015 - October 2017), Lead Developer (May 2016 - September 2016)\f[R]
 .IP \[bu] 2
@@ -228,5 +234,5 @@ Twitter and dave.wickes\[at]gmail.com (mailto:dave@gypsydave5.com) by
 email.
 There\[aq]s a blog (blog.gypsydave5.com (http://blog.gypsydave5.com/)),
 and my GitHub (https://github.com/gypsydave5) and
-https://www.chess.com/member/gypsydave5\[rs][sr.ht]] accounts too if
-you\[aq]d like to see what I\[aq]m up to and thinking.
+sr.ht (https://git.sr.ht/~dew/) accounts too if you\[aq]d like to see
+what I\[aq]m up to and thinking.
