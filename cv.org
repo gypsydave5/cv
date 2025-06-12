@@ -9,12 +9,49 @@
 
 An agile, iterative, and test-driven developer.
 
+** [[http://www.springernature.com][SpringerNature]]
+   :PROPERTIES:
+   :CUSTOM_ID: springernature-2023
+   :END:
+
+*** /Senior Software Developer (April 2023 - Present)/
+    :PROPERTIES:
+    :CUSTOM_ID: senior-software-developer-april-2023-present
+    :END:
+- Proactively explored and applied cutting-edge development techniques, including AI, and mentored others in their practical application.
+- Initiated and facilitated event storming sessions, empowering cross-functional stakeholders in architectural discovery.
+- Advocated for and reintroduced Domain-Driven Tests (DDTs), improving workflow and code quality.
+- Mentored on advanced programming techniques and functional programming concepts.
+- Guided cross-team discussions on engineering best practices.
+- Delivered internal 'Lightning Talks' to share knowledge and foster improvement.
+- Communicated complex technical concepts to diverse audiences, including hosting company-wide meetings.
+- Led root cause analysis of amendments, collaborating with multiple stakeholders, and drove actionable insights for multiple departments.
+- Collaborated with Product Owners and team members to align solutions with business and technical goals.
+- Fostered a culture of open feedback and continuous improvement.
+- Confidently represented the domain and business in technical discussions with stakeholders.
+- Championed excellence in software engineering and inspired a high-performance culture.
+
+**** Skills
+    :PROPERTIES:
+    :CUSTOM_ID: skills-springernature-2023
+    :END:
+- Mentoring and coaching
+- Facilitation
+- http4k library contribution
+- Advanced front-end development
+- Ports-and-adaptors (hexagonal) architecture
+- Domain-Driven Testing (DDT)
+- Advanced programming: Hamkrest, Kondor, functional programming (Result type)
+- Engineering best practices and code review leadership
+- Advanced methodologies: Mikado, Steel Thread
+- Agile analysis techniques: story mapping, example mapping
+
 ** [[https://www.saltpay.co/][Saltpay]]
    :PROPERTIES:
    :CUSTOM_ID: saltpay
    :END:
 
-*** /Senior Developer / Tech Lead (May 2022 - Present)/
+*** /Senior Developer / Tech Lead (May 2022 - April 2023)/
 :PROPERTIES:
 :CUSTOM_ID: saltpay-role
 :END:
@@ -27,11 +64,9 @@ An agile, iterative, and test-driven developer.
 :CUSTOM_ID: skills-saltpay
 :END:
 - Go programming language, PostgreSQL, Kafka
-- Deployment on Kubernates using Tekton
 - Monitoring using Grafana suite
 - Architecture, roadmaps and decision documentation
-- Small scale [[https://martinfowler.com/bliki/ContractTest.html][contract testing]]
-- Implemented [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]]
+- Small scale [[https://martinfowler.com/bliki/ContractTest.html][contract testing]] and [[http://www.natpryce.com/articles/000819.html][Domain-Driven Testing]]
 
 ** [[https://www.triptease.com/][Triptease]]
    :PROPERTIES:
@@ -46,7 +81,6 @@ An agile, iterative, and test-driven developer.
 :PROPERTIES:
 :CUSTOM_ID: skills-triptease
 :END:
-- TypeScript on Node.js
 - Deployed on Google Cloud Platform (Kubernates and other tools)
 - Management of a statistical model to calculate advertising bids
 - Contributed multiple learning sessions to help teams learn TypeScript
@@ -69,12 +103,11 @@ An agile, iterative, and test-driven developer.
       :PROPERTIES:
       :CUSTOM_ID: skills-0
       :END:
-      
+
 - Use of graphical JavaScript libraries to display information
 - [[https://martinfowler.com/eaaDev/EventSourcing.html][Event sourced]] backend architecture in TypeScript / Go
 - Rapid prototyping using spreadsheets as backend (both Excel and Google Sheets)
 - [[https://nextjs.org/][Next.js]], a React based web framework
-- Promoted the use of DevOps and Agile techniques for building software
 - Configuring multiple AWS services using [[https://www.terraform.io/][Terraform]]
 
 ** [[http://www.springernature.com][SpringerNature Digital]]
@@ -87,7 +120,6 @@ An agile, iterative, and test-driven developer.
      :CUSTOM_ID: developer-october-2017---june-2019
      :END:
 
-- International scientific publisher
 - Joined to work as part of a small innovations team, working across the company
 - Dissolution of team resulted in move to high-priority payments project
 - Led a weekly lunch club learning Lisp(s)
@@ -144,6 +176,7 @@ An agile, iterative, and test-driven developer.
 - Learned TDD/BDD, pair programming and other modern development practices
 - Ruby, JavaScript, HTML5, CSS and JQuery
 - Version control with git and GitHub
+- Coached and mentored students both during and after the course
 
 ** /Courses, Conferences, External Activities/
    :PROPERTIES:
@@ -177,7 +210,7 @@ An agile, iterative, and test-driven developer.
    :CUSTOM_ID: i-like
    :END:
 
-TDD, DDD, functional programming, object-oriented programming, boardgames, chess, playing the recorder, early music, Oxford commas, and the philosophy of language.
+TDD, DDD, functional programming, object-oriented programming, boardgames, chess, playing the recorder, early music, Oxford commas, and learning Old English.
 
 ** Contact
    :PROPERTIES:

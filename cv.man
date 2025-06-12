@@ -1,159 +1,269 @@
 .SH David Wickes
-.PP
-An agile, iterative, and test-driven developer.
-.SS Saltpay (https://www.saltpay.co/)
-.SS \f[I]Senior Developer / Tech Lead (May 2022 - Present)\f[R]
-.IP \[bu] 2
+An agile, iterative, and test\-driven developer.
+.SS \c
+.UR http://www.springernature.com
+SpringerNature
+.UE \c
+.SS \f[I]Senior Software Developer (April 2023 \- Present)\f[R]
+.IP \(bu 2
+Proactively explored and applied cutting\-edge development techniques,
+including AI, and mentored others in their practical application.
+.IP \(bu 2
+Initiated and facilitated event storming sessions, empowering
+cross\-functional stakeholders in architectural discovery.
+.IP \(bu 2
+Advocated for and reintroduced Domain\-Driven Tests (DDTs), improving
+workflow and code quality.
+.IP \(bu 2
+Mentored on advanced programming techniques and functional programming
+concepts.
+.IP \(bu 2
+Guided cross\-team discussions on engineering best practices.
+.IP \(bu 2
+Delivered internal \(aqLightning Talks\(aq to share knowledge and foster
+improvement.
+.IP \(bu 2
+Communicated complex technical concepts to diverse audiences, including
+hosting company\-wide meetings.
+.IP \(bu 2
+Led root cause analysis of amendments, collaborating with multiple
+stakeholders, and drove actionable insights for multiple departments.
+.IP \(bu 2
+Collaborated with Product Owners and team members to align solutions
+with business and technical goals.
+.IP \(bu 2
+Fostered a culture of open feedback and continuous improvement.
+.IP \(bu 2
+Confidently represented the domain and business in technical discussions
+with stakeholders.
+.IP \(bu 2
+Championed excellence in software engineering and inspired a
+high\-performance culture.
+.SS Skills
+.IP \(bu 2
+Mentoring and coaching
+.IP \(bu 2
+Facilitation
+.IP \(bu 2
+http4k library contribution
+.IP \(bu 2
+Advanced front\-end development
+.IP \(bu 2
+Ports\-and\-adaptors (hexagonal) architecture
+.IP \(bu 2
+Domain\-Driven Testing (DDT)
+.IP \(bu 2
+Advanced programming: Hamkrest, Kondor, functional programming (Result
+type)
+.IP \(bu 2
+Engineering best practices and code review leadership
+.IP \(bu 2
+Advanced methodologies: Mikado, Steel Thread
+.IP \(bu 2
+Agile analysis techniques: story mapping, example mapping
+.SS \c
+.UR https://www.saltpay.co/
+Saltpay
+.UE \c
+.SS \f[I]Senior Developer / Tech Lead (May 2022 \- April 2023)\f[R]
+.IP \(bu 2
 Provider of payments services to small and medium enterprises
-.IP \[bu] 2
+.IP \(bu 2
 Responsible for the integration of dependencies for the onboarding of
 customers
-.IP \[bu] 2
+.IP \(bu 2
 Consulted internally on testing strategies and TDD
 .SS Skills
-.IP \[bu] 2
+.IP \(bu 2
 Go programming language, PostgreSQL, Kafka
-.IP \[bu] 2
-Deployment on Kubernates using Tekton
-.IP \[bu] 2
+.IP \(bu 2
 Monitoring using Grafana suite
-.IP \[bu] 2
+.IP \(bu 2
 Architecture, roadmaps and decision documentation
-.IP \[bu] 2
-Small scale contract
-testing (https://martinfowler.com/bliki/ContractTest.html)
-.IP \[bu] 2
-Implemented Domain-Driven
-Testing (http://www.natpryce.com/articles/000819.html)
-.SS Triptease (https://www.triptease.com/)
-.SS \f[I]Senior Developer (July 2021 - April 2022)\f[R]
-.IP \[bu] 2
+.IP \(bu 2
+Small scale \c
+.UR https://martinfowler.com/bliki/ContractTest.html
+contract testing
+.UE \c
+\ and \c
+.UR http://www.natpryce.com/articles/000819.html
+Domain\-Driven Testing
+.UE \c
+.SS \c
+.UR https://www.triptease.com/
+Triptease
+.UE \c
+.SS \f[I]Senior Developer (July 2021 \- April 2022)\f[R]
+.IP \(bu 2
 Hotel digital services company manging digital advertising
-.IP \[bu] 2
+.IP \(bu 2
 Worked in team responsible for display advertising
 .SS Skills
-.IP \[bu] 2
-TypeScript on Node.js
-.IP \[bu] 2
+.IP \(bu 2
 Deployed on Google Cloud Platform (Kubernates and other tools)
-.IP \[bu] 2
+.IP \(bu 2
 Management of a statistical model to calculate advertising bids
-.IP \[bu] 2
+.IP \(bu 2
 Contributed multiple learning sessions to help teams learn TypeScript
-.SS Acuris (http://www.acuris.com/)
-.SS \f[I]Senior Developer (July 2019 - June 2021)\f[R]
-.IP \[bu] 2
+.SS \c
+.UR http://www.acuris.com/
+Acuris
+.UE \c
+.SS \f[I]Senior Developer (July 2019 \- June 2021)\f[R]
+.IP \(bu 2
 Financial journalism company, providing alerting and research services
 to multiple sectors.
-.IP \[bu] 2
+.IP \(bu 2
 Worked initially on the platform team building tooling around AWS
-.IP \[bu] 2
+.IP \(bu 2
 Moved to a product team building web applications
-.IP \[bu] 2
+.IP \(bu 2
 Initiated and ran the departments associate developer mentoring
 programme
 .SS Skills
-.IP \[bu] 2
+.IP \(bu 2
 Use of graphical JavaScript libraries to display information
-.IP \[bu] 2
-Event sourced (https://martinfowler.com/eaaDev/EventSourcing.html)
-backend architecture in TypeScript / Go
-.IP \[bu] 2
+.IP \(bu 2
+\c
+.UR https://martinfowler.com/eaaDev/EventSourcing.html
+Event sourced
+.UE \c
+\ backend architecture in TypeScript / Go
+.IP \(bu 2
 Rapid prototyping using spreadsheets as backend (both Excel and Google
 Sheets)
-.IP \[bu] 2
-Next.js (https://nextjs.org/), a React based web framework
-.IP \[bu] 2
-Promoted the use of DevOps and Agile techniques for building software
-.IP \[bu] 2
-Configuring multiple AWS services using
-Terraform (https://www.terraform.io/)
-.SS SpringerNature Digital (http://www.springernature.com)
-.SS \f[I]Developer (October 2017 - July 2019)\f[R]
-.IP \[bu] 2
-International scientific publisher
-.IP \[bu] 2
+.IP \(bu 2
+\c
+.UR https://nextjs.org/
+Next.js
+.UE \c
+, a React based web framework
+.IP \(bu 2
+Configuring multiple AWS services using \c
+.UR https://www.terraform.io/
+Terraform
+.UE \c
+.SS \c
+.UR http://www.springernature.com
+SpringerNature Digital
+.UE \c
+.SS \f[I]Developer (October 2017 \- July 2019)\f[R]
+.IP \(bu 2
 Joined to work as part of a small innovations team, working across the
 company
-.IP \[bu] 2
-Dissolution of team resulted in move to high-priority payments project
-.IP \[bu] 2
+.IP \(bu 2
+Dissolution of team resulted in move to high\-priority payments project
+.IP \(bu 2
 Led a weekly lunch club learning Lisp(s)
 .SS Skills
-.IP \[bu] 2
+.IP \(bu 2
 Small applications as experiments to gather the maximum information on
 real requirements
-.IP \[bu] 2
-Continuous delivery (https://continuousdelivery.com/) with trunk based
-development (https://trunkbaseddevelopment.com/)
-.IP \[bu] 2
+.IP \(bu 2
+\c
+.UR https://continuousdelivery.com/
+Continuous delivery
+.UE \c
+\ with \c
+.UR https://trunkbaseddevelopment.com/
+trunk based development
+.UE \c
+.IP \(bu 2
 Leveraging modern HTML and CSS to build simple, functional web
 applications
-.IP \[bu] 2
+.IP \(bu 2
 Building browser extensions in JavaScript as an integration point across
 legacy systems
-.IP \[bu] 2
-Used Kotlin (https://kotlinlang.org/) and PostgreSQL on Cloud
-Foundry (https://www.cloudfoundry.org/) platform
-.IP \[bu] 2
-Learned Domain-Driven
-Testing (http://www.natpryce.com/articles/000819.html) and Event
-Sourcing (https://martinfowler.com/eaaDev/EventSourcing.html) from Nat
-Pryce and Uberto Barbini
-.SS Acuris (http://www.acuris.com/)
-.SS \f[I]Developer (January 2015 - October 2017), Lead Developer (May 2016 - September 2016)\f[R]
-.IP \[bu] 2
-Built a web-scraping and alerting system for US bankruptcy courts using
+.IP \(bu 2
+Used \c
+.UR https://kotlinlang.org/
+Kotlin
+.UE \c
+\ and PostgreSQL on \c
+.UR https://www.cloudfoundry.org/
+Cloud Foundry
+.UE \c
+\ platform
+.IP \(bu 2
+Learned \c
+.UR http://www.natpryce.com/articles/000819.html
+Domain\-Driven Testing
+.UE \c
+\ and \c
+.UR https://martinfowler.com/eaaDev/EventSourcing.html
+Event Sourcing
+.UE \c
+\ from Nat Pryce and Uberto Barbini
+.SS \c
+.UR http://www.acuris.com/
+Acuris
+.UE \c
+.SS \f[I]Developer (January 2015 \- October 2017), Lead Developer (May 2016 \- September 2016)\f[R]
+.IP \(bu 2
+Built a web\-scraping and alerting system for US bankruptcy courts using
 a microservice architecture.
-.IP \[bu] 2
+.IP \(bu 2
 Contributed to creation of new content delivery pipelines for the core
 business
-.IP \[bu] 2
+.IP \(bu 2
 Led a team until I asked to be allowed to focus on development
-.IP \[bu] 2
+.IP \(bu 2
 Led and iterated on the structure for regular hackdays
 .SS Skills
-.IP \[bu] 2
-Languages - Groovy, Go, JavaScript, TypeScript
-.IP \[bu] 2
+.IP \(bu 2
+Languages \- Groovy, Go, JavaScript, TypeScript
+.IP \(bu 2
 Building frontends in vanilla JS, React and Redux
-.IP \[bu] 2
+.IP \(bu 2
 Participated and led in learning and adoption of Go across development
 teams
-.IP \[bu] 2
+.IP \(bu 2
 Monitoring and logging using Graphite, DataDog, Logstash and Logentries
-.IP \[bu] 2
+.IP \(bu 2
 MSSQL, Elasticsearch, MongoDB, RabbitMQ as a message broker
-.IP \[bu] 2
+.IP \(bu 2
 Participating in and leading retrospectives
-.SS Makers Academy (http://www.makersacademy.com/)
-.SS \f[I]Student (August 2014 - October 2014), Tutor (October 2014 - December 2014)\f[R]
-.IP \[bu] 2
-Full-stack web development bootcamp in Ruby, JavaScript, Rails, Sinatra
+.SS \c
+.UR http://www.makersacademy.com/
+Makers Academy
+.UE \c
+.SS \f[I]Student (August 2014 \- October 2014), Tutor (October 2014 \- December 2014)\f[R]
+.IP \(bu 2
+Full\-stack web development bootcamp in Ruby, JavaScript, Rails, Sinatra
 and NodeJS
-.IP \[bu] 2
+.IP \(bu 2
 Learned TDD/BDD, pair programming and other modern development practices
-.IP \[bu] 2
+.IP \(bu 2
 Ruby, JavaScript, HTML5, CSS and JQuery
-.IP \[bu] 2
+.IP \(bu 2
 Version control with git and GitHub
+.IP \(bu 2
+Coached and mentored students both during and after the course
 .SS \f[I]Courses, Conferences, External Activities\f[R]
-.IP \[bu] 2
-Contributor to Go Time podcast on TDD (https://changelog.com/gotime/185)
-and htmx (https://changelog.com/gotime/266)
-.IP \[bu] 2
+.IP \(bu 2
+Contributor to Go Time podcast on \c
+.UR https://changelog.com/gotime/185
+TDD
+.UE \c
+\ and \c
+.UR https://changelog.com/gotime/266
+htmx
+.UE \c
+.IP \(bu 2
 Recent conferences: GopherCon London, Software Craftmanship London,
 GopherCon Europe, QCon
-.IP \[bu] 2
-\f[I]Algorithmic
-Toolbox\f[R] (https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84)
-by University of California, San Diego & Higher School of Economics on
+.IP \(bu 2
+\c
+.UR https://www.coursera.org/account/accomplishments/records/C58NGM7GQS84
+\f[I]Algorithmic Toolbox\f[R]
+.UE \c
+\ by University of California, San Diego & Higher School of Economics on
 Coursera
 .SS Languages
-.IP \[bu] 2
+.IP \(bu 2
 Used in production: Kotlin, JavaScript/TypeScript, Groovy, Ruby, Go,
 Java
-.IP \[bu] 2
+.IP \(bu 2
 Used outside of work: Common Lisp, Scheme, Racket, OCaml, Smalltalk
 .SS Education
 .PP
@@ -169,7 +279,7 @@ Subject(s)
 T}
 _
 T{
-2000 - 2005
+2000 \- 2005
 T}@T{
 University of Warwick
 T}@T{
@@ -177,16 +287,29 @@ BA Philosophy (1:1), MA Continental Philosophy
 T}
 .TE
 .SS I Like
-.PP
-TDD, DDD, functional programming, object-oriented programming,
+TDD, DDD, functional programming, object\-oriented programming,
 boardgames, chess, playing the recorder, early music, Oxford commas, and
-the philosophy of language.
+learning Old English.
 .SS Contact
-.PP
-You can reach me as \[at]gypsydave5 (https://twitter.com/gypsydave5) on
-Twitter and dave.wickes\[at]gmail.com (mailto:dave@gypsydave5.com) by
-email.
-There\[aq]s a blog (blog.gypsydave5.com (http://blog.gypsydave5.com/)),
-and my GitHub (https://github.com/gypsydave5) and
-sr.ht (https://git.sr.ht/~dew/) accounts too if you\[aq]d like to see
-what I\[aq]m up to and thinking.
+You can reach me as \(at\c
+.UR https://twitter.com/gypsydave5
+gypsydave5
+.UE \c
+\ on Twitter and \c
+.MT dave@gypsydave5.com
+dave.wickes\(atgmail.com
+.ME \c
+\ by email.
+There\(aqs a blog (\c
+.UR http://blog.gypsydave5.com/
+blog.gypsydave5.com
+.UE \c
+), and my \c
+.UR https://github.com/gypsydave5
+GitHub
+.UE \c
+\ and \c
+.UR https://git.sr.ht/~dew/
+sr.ht
+.UE \c
+\ accounts too if you\(aqd like to see what I\(aqm up to and thinking.
