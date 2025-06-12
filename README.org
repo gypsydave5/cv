@@ -3,7 +3,7 @@
   :CUSTOM_ID: my-cv
   :END:
 
-My CV is currently written in the [[https://orgmode.org/manual/Markup-for-Rich-Contents.html][org markup language]] and is saved as =cv.org=. It is available as a PDF, an ODT document, a markdown document, and a Latex document.
+My CV is currently written in the [[https://orgmode.org/manual/Markup-for-Rich-Contents.html][org markup language]] and is saved as =cv.org=. It is available as a PDF, an ODT document, a markdown document, a man page, and a Latex document
 
 
 ** Dependencies
@@ -11,5 +11,5 @@ My CV is currently written in the [[https://orgmode.org/manual/Markup-for-Rich-C
    :CUSTOM_ID: dependencies
    :END:
 
-- Emacs
-- [[https://github.com/larstvei/ox-gfm][ox-gfm]]
+- pandoc
+- pdflatex
